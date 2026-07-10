@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "O livro de Esdras detalha os primeiros grupos que retornaram a Jerusalém para reconstruir a casa de Deus.",
+        "alternativas":  [
+                             "Esdras",
+                             "Neemias",
+                             "Ageu",
+                             "Zacarias"
+                         ],
+        "id":  1694,
+        "pergunta":  "Qual livro conta a história da reconstrução do Templo de Jerusalém após o exílio babilônico?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Esdras",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Esdras 1-6"
+    },
+    {
+        "explicacao":  "Cumprindo a palavra profética de Jeremias, o rei Ciro, o Grande, decretou a repatriação dos judeus no primeiro ano do seu reinado.",
+        "alternativas":  [
+                             "Dário",
+                             "Xerxes",
+                             "Artaxerxes",
+                             "Ciro"
+                         ],
+        "id":  1695,
+        "pergunta":  "Quem foi o rei persa que assinou o decreto permitindo que os judeus voltassem e reconstruíssem o Templo?",
+        "respostaCorretaIndice":  3,
+        "testamento":  "Velho Testamento",
+        "livro":  "Esdras",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Esdras 1:1-2"
+    }
+]

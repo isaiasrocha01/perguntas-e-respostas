@@ -1,0 +1,53 @@
+﻿[
+    {
+        "explicacao":  "Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus.",
+        "alternativas":  [
+                             "Terra de Uz",
+                             "Ur dos Caldeus",
+                             "Terra de Midiã",
+                             "Canaã"
+                         ],
+        "id":  1705,
+        "pergunta":  "Em que terra o patriarca Jó vivia quando passaram as suas provações?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jó",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Jó 1:1"
+    },
+    {
+        "explicacao":  "Mesmo perdendo filhos, bens e saúde, Jó declarou: \u0027O Senhor o deu, e o Senhor o tomou: bendito seja o nome do Senhor\u0027.",
+        "alternativas":  [
+                             "Jó",
+                             "Abraão",
+                             "Jacó",
+                             "Jeremias"
+                         ],
+        "id":  1706,
+        "pergunta":  "Quem perdeu tudo o que tinha, mas se recusou a amaldiçoar a Deus e manteve sua integridade?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jó",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Jó 1-2"
+    },
+    {
+        "explicacao":  "O livro literário-poético de Jó explora de forma profunda a soberania de Deus, a fidelidade humana e os limites das explicações tradicionais para o sofrimento.",
+        "alternativas":  [
+                             "Eclesiastes",
+                             "Salmos",
+                             "Jó",
+                             "Provérbios"
+                         ],
+        "id":  1707,
+        "pergunta":  "Qual livro de sabedoria aborda formalmente o dilema teológico do sofrimento do justo por meio de debates entre o protagonista e seus amigos?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jó",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Livro de Jó"
+    }
+]

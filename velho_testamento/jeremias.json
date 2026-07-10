@@ -1,0 +1,87 @@
+﻿[
+    {
+        "explicacao":  "Deus rejeitou a escusa de Jeremias, garantindo que estaria com ele para livrá-lo e que colocaria Suas próprias palavras em sua boca.",
+        "alternativas":  [
+                             "Jeremias",
+                             "Isaías",
+                             "Ezequiel",
+                             "Daniel"
+                         ],
+        "id":  1717,
+        "pergunta":  "Qual profeta alegou sua inexperiência juvenil ao receber o chamado vocacional dizendo: \u0027Ah, Senhor Deus! Eis que não sei falar; porque sou uma criança\u0027?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jeremias",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Jeremias 1:6"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Baruque",
+        "alternativas":  [
+                             "Baruque",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1718,
+        "pergunta":  "Quem foi o escriba que ajudou o profeta Jeremias a escrever todas as palavras da profecia em um rolo de livro?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jeremias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Jeremias 36:4"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Nebuzaradã",
+        "alternativas":  [
+                             "Nebuzaradã",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1719,
+        "pergunta":  "Qual era o nome do oficial babilônico que liderava a guarda de Nabucodonosor e que libertou Jeremias após a queda de Jerusalém?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jeremias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Jeremias 40:1-4"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: 70 anos",
+        "alternativas":  [
+                             "70 anos",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1720,
+        "pergunta":  "Quantos anos o povo judeu permaneceu nominalmente no exílio babilônico conforme a profecia exata de Jeremias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jeremias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Jeremias 25:11 / 2 Crônicas 36:21"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Junto ao rio Eufrates (ou Perat)",
+        "alternativas":  [
+                             "Junto ao rio Eufrates (ou Perat)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1721,
+        "pergunta":  "Qual foi o lugar exato onde o profeta Jeremias escondeu um cinto de linho na fenda de uma rocha para ilustrar a podridão de Judá?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jeremias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Jeremias 13:4-5"
+    }
+]

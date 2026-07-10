@@ -1,0 +1,70 @@
+﻿[
+    {
+        "explicacao":  "Os primeiros nove capítulos de 1 Crônicas são repletos de árvores genealógicas que reafirmam a identidade de Israel.",
+        "alternativas":  [
+                             "1 Crônicas",
+                             "2 Crônicas",
+                             "Gênesis",
+                             "Mateus"
+                         ],
+        "id":  1685,
+        "pergunta":  "Qual livro começa com extensas genealogias desde Adão e reconta a história sob a perspectiva do Templo e da linhagem de Davi?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Crônicas",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "1 Crônicas 1-9"
+    },
+    {
+        "explicacao":  "E este é o número dos poderosos que Davi tinha: Jasobeão, hacmonita, chefe dos capitães, o qual, brandindo a sua lança contra trezentos, de uma vez os matou.",
+        "alternativas":  [
+                             "Asafe",
+                             "Efraim",
+                             "Jasobeão",
+                             "Áquila"
+                         ],
+        "id":  1686,
+        "pergunta":  "Como é chamado o herói de Davi que se destacou por ferir trezentos homens com a sua lança de uma só vez ",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Crônicas",
+        "nivel":  "Fácil",
+        "categoria":  "Livros",
+        "referenciaBiblica":  "1 Crônicas 11:11"
+    },
+    {
+        "explicacao":  "Porém, veio a mim a palavra do Senhor, dizendo: Tu derramaste sangue em abundância, e fizeste grandes guerras; não edificarás casa ao meu nome; porquanto muito sangue tens derramado na terra, perante mim.",
+        "alternativas":  [
+                             "Cometeu adultério com Bate-Seba",
+                             "Derramou sangue em abundância",
+                             "Cortou um pedaço do manto de Saul ",
+                             "Davi casou com estrangeiras"
+                         ],
+        "id":  1687,
+        "pergunta":  "Por que motivo o rei Davi não pôde construir o Templo do Senhor, embora fosse o seu desejo?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Crônicas",
+        "nivel":  "Fácil",
+        "categoria":  "Livros",
+        "referenciaBiblica":  "1 Crônicas 22:8 "
+    },
+    {
+        "explicacao":  "Assim morreu Saul por causa da transgressão que cometeu contra o Senhor, por causa da palavra do Senhor, a qual não havia guardado; e também porque buscou a adivinhadora para a consultar. ",
+        "alternativas":  [
+                             "Perseguiu Davi",
+                             "Escondeu-se no deserto de Zife",
+                             "Fez o machado flutuar",
+                             "Transgressão contra o Senhor"
+                         ],
+        "id":  1688,
+        "pergunta":  "O que causou a morte do rei Saul?",
+        "respostaCorretaIndice":  3,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Crônicas",
+        "nivel":  "Médio",
+        "categoria":  "Livros",
+        "referenciaBiblica":  "1 Crônicas 10:13"
+    }
+]

@@ -1,0 +1,257 @@
+﻿[
+    {
+        "explicacao":  "Davi conquistou a fortaleza de Sião, que passou a se chamar a Cidade de Davi (Jerusalém).",
+        "alternativas":  [
+                             "Jerusalém",
+                             "Samaria",
+                             "Hebrom",
+                             "Belém"
+                         ],
+        "id":  1621,
+        "pergunta":  "Qual cidade se tornou a capital do reino de Davi e o lugar do Templo de Deus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Samuel 5:6-9"
+    },
+    {
+        "explicacao":  "Enquanto 1 Samuel foca em Saul e na juventude de Davi, 2 Samuel narra exclusivamente o trono de Davi.",
+        "alternativas":  [
+                             "2 Samuel",
+                             "1 Samuel",
+                             "1 Reis",
+                             "1 Crônicas"
+                         ],
+        "id":  1622,
+        "pergunta":  "Qual livro se concentra quase inteiramente na história do reinado de Davi?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "2 Samuel 1-24"
+    },
+    {
+        "explicacao":  "Para encobrir o adultério, Davi ordenou por carta que Urias fosse abandonado no ponto mais violento do combate.",
+        "alternativas":  [
+                             "Urias, o heteu",
+                             "Joabe",
+                             "Abisai",
+                             "Itai"
+                         ],
+        "id":  1623,
+        "pergunta":  "Quem era o marido de Bate-Seba que Davi mandou colocar na frente de batalha para ser morto?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Samuel 11:14-15"
+    },
+    {
+        "explicacao":  "Ao fugir montado em uma mula, a cabeça de Absalão ficou presa nos galhos de um grande carvalho, facilitando sua execução por Joabe.",
+        "alternativas":  [
+                             "Adonias",
+                             "Amnon",
+                             "Absalão",
+                             "Salomão"
+                         ],
+        "id":  1624,
+        "pergunta":  "Qual filho de Davi se rebelou contra o próprio pai, tentou roubar o trono e morreu pendurado pelos cabelos em uma árvore?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Samuel 18:9-14"
+    },
+    {
+        "explicacao":  "Natã propôs uma parábola sobre um homem rico que roubou a única cordeira de um pobre, levando Davi a se autojulgar sem perceber.",
+        "alternativas":  [
+                             "Samuel",
+                             "Elias",
+                             "Natã",
+                             "Gad"
+                         ],
+        "id":  1625,
+        "pergunta":  "Quem foi o profeta que confrontou diretamente o rei Davi pelo seu pecado com Bate-Seba usando a parábola da ovelha?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Samuel 12:1-7"
+    },
+    {
+        "explicacao":  "A ira de Deus se acendeu contra Uzá por sua irreverência ao estender a mão para segurar a Arca sagrada, violando a ordenança de transporte.",
+        "alternativas":  [
+                             "Uzá",
+                             "Aió",
+                             "Obede-Edom",
+                             "Abinadabe"
+                         ],
+        "id":  1626,
+        "pergunta":  "Quem foi o homem que tocou na Arca da Aliança para que ela não caísse do carro de bois e morreu imediatamente?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Samuel 6:6-7"
+    },
+    {
+        "explicacao":  "Por direção divina, Davi subiu com suas mulheres e aliados para Hebrom, onde os homens de Judá o ungiram rei sobre a sua tribo.",
+        "alternativas":  [
+                             "Jerusalém",
+                             "Hebrom",
+                             "Belém",
+                             "Gabaon"
+                         ],
+        "id":  1627,
+        "pergunta":  "Qual foi a cidade onde Davi foi ungido rei de Judá e reinou pelos seus primeiros sete anos e meio?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Samuel 2:1-4"
+    },
+    {
+        "explicacao":  "Ao chegarem à eira de Nacom (chamada de Quidon em Crônicas), os bois tropeçaram, provocando o gesto fatal de Uzá.",
+        "alternativas":  [
+                             "Eira de Araúna",
+                             "Eira de Nacom",
+                             "Eira de Ornã",
+                             "Eira de Boaz"
+                         ],
+        "id":  1628,
+        "pergunta":  "Qual era o nome da eira onde Uzá tocou na Arca, que depois passou a se chamar Perez-Uzá?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Samuel 6:6"
+    },
+    {
+        "explicacao":  "Ao ordenar o recenseamento do exército movido por orgulho militar, Davi pecou por confiar na força humana, gerando severa punição nacional.",
+        "alternativas":  [
+                             "A construção de um palácio de marfim",
+                             "O confisco das terras das tribos",
+                             "A realização de um censo militar orgulhoso",
+                             "O casamento com mulheres estrangeiras"
+                         ],
+        "id":  1629,
+        "pergunta":  "Qual foi a atitude de soberba do rei Davi que trouxe o julgamento de uma peste que eliminou 70 mil israelitas?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Samuel 24:10-15"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Isbosete (também chamado Esbaal)",
+        "alternativas":  [
+                             "Isbosete (também chamado Esbaal)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1630,
+        "pergunta":  "Qual era o nome do homem que tentou se fazer rei em Israel logo após a morte de Saul, governando sobre as tribos do norte por dois anos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Samuel 2:8-10"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Aitofel",
+        "alternativas":  [
+                             "Aitofel",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1631,
+        "pergunta":  "Quem era o conselheiro pessoal de Davi que o traiu, aliando-se à rebelião de Absalão, e depois se enforcou ao ver que seu conselho fora rejeitado?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Samuel 17:23"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Gade (o vidente de Davi)",
+        "alternativas":  [
+                             "Gade (o vidente de Davi)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1632,
+        "pergunta":  "Quem foi o profeta enviado por Deus para confrontar o rei Davi logo após ele ter feito o censo pecaminoso do povo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Samuel 24:11"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: O homem de Gate (descendente dos gigantes)",
+        "alternativas":  [
+                             "O homem de Gate (descendente dos gigantes)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1633,
+        "pergunta":  "Qual era o nome do gigante de quatro braços/dedos extras (seis em cada mão e pé) que foi morto por Jônatas, sobrinho de Davi?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Samuel 21:20-21"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Tanque de Gibeão",
+        "alternativas":  [
+                             "Tanque de Gibeão",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1634,
+        "pergunta":  "Onde se localizava o grande tanque de águas onde os exércitos de Joabe (Davi) e Abner (Isbosete) se enfrentaram na prova dos doze jovens?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Samuel 2:12-13"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: O estupro de Tamar por seu meio-irmão Amnom (e o subsequente assassinato de Amnom por Absalão)",
+        "alternativas":  [
+                             "O estupro de Tamar por seu meio-irmão Amnom (e o subsequente assassinato de Amnom por Absalão)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1635,
+        "pergunta":  "Qual pecado familiar de Davi engatilhou a profecia de Natã de que \u0027a espada jamais se apartaria da sua casa\u0027, envolvendo Amnom e Tamar?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Samuel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Samuel 13"
+    }
+]

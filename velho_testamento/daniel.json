@@ -1,0 +1,257 @@
+﻿[
+    {
+        "explicacao":  "Sadraque, Mesaque e Abede-Nego foram atirados na fornalha superaquecida, mas andaram no fogo sem sofrer queimaduras.",
+        "alternativas":  [
+                             "Na fornalha ardente",
+                             "Na cova dos leões",
+                             "No rio Eufrates",
+                             "No calabouço real"
+                         ],
+        "id":  1724,
+        "pergunta":  "Onde os três amigos de Daniel foram lançados por se recusarem a adorar a estátua de ouro do rei?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Daniel 3:19-20"
+    },
+    {
+        "explicacao":  "Na mesma hora apareceram uns dedos de mão de homem, e escreviam, defronte do castiçal, na caiadura da parede do palácio real.",
+        "alternativas":  [
+                             "Os dedos de uma mão escrevendo na parede",
+                             "Uma espada flamejante flutuando",
+                             "O rosto de um anjo reluzente",
+                             "Uma pomba de fogo"
+                         ],
+        "id":  1725,
+        "pergunta":  "O que apareceu na parede durante o banquete do rei Belsazar, anunciou o fim do seu império?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Daniel 5:5"
+    },
+    {
+        "explicacao":  "Por causa de um decreto real caprichoso, Daniel foi sentenciado à morte na cova dos leões por manter sua rotina de oração.",
+        "alternativas":  [
+                             "Daniel",
+                             "Ezequiel",
+                             "Jeremias",
+                             "Amós"
+                         ],
+        "id":  1726,
+        "pergunta":  "Quem foi o profeta jogado na cova dos leões por se recusar a parar de orar a Deus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Daniel 6:16"
+    },
+    {
+        "explicacao":  "O rei Dario ordenou o castigo e Daniel foi jogado no fosso onde os leões famintos eram mantidos.",
+        "alternativas":  [
+                             "Na cova dos leões",
+                             "Na fornalha ardente",
+                             "No deserto da Babilônia",
+                             "No fundo de uma prisão cisterna"
+                         ],
+        "id":  1727,
+        "pergunta":  "Onde o profeta Daniel foi lançado por continuar orando a Deus três vezes ao dia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Daniel 6:16"
+    },
+    {
+        "explicacao":  "Daniel disse ao rei: \u0027O meu Deus enviou o seu anjo, e fechou a boca dos leões, para que não me fizessem dano\u0027.",
+        "alternativas":  [
+                             "Deus enviou o Seu anjo e fechou a boca dos leões",
+                             "Os leões estavam totalmente dopados",
+                             "Daniel usou uma armadura especial",
+                             "Os leões fugiram assustados com a luz"
+                         ],
+        "id":  1728,
+        "pergunta":  "Por que Daniel não sofreu nenhum arranhão quando foi jogado na cova dos leões?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Daniel 6:22"
+    },
+    {
+        "explicacao":  "Na corte babilônica, seus nomes teofóricos originais foram alterados pelo chefe dos oficiais para refletirem as divindades locais.",
+        "alternativas":  [
+                             "Ezequiel, Esdras e Neemias",
+                             "Hananias, Misael e Azarias",
+                             "Joel, Amós e Obadias",
+                             "Matatias, Simão e Judas"
+                         ],
+        "id":  1729,
+        "pergunta":  "Quais eram os nomes originais em hebraico dados aos três amigos de Daniel que receberam os nomes babilônicos de Sadraque, Mesaque e Abede-Nego?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Daniel 1:7"
+    },
+    {
+        "explicacao":  "Acometido por licantropia/boantropia clínica espiritual, o monarca babilônico foi banido do convívio humano e comeu capim até reconhecer a soberania de Deus.",
+        "alternativas":  [
+                             "Ele foi assassinado por seus próprios guardas",
+                             "Ficou cego instantaneamente",
+                             "Perdeu a sanidade e viveu sete anos como um animal do campo",
+                             "Seu palácio desmoronou sobre ele"
+                         ],
+        "id":  1730,
+        "pergunta":  "Como se cumpriu o juízo de Deus sobre a arrogância imperial de Nabucodonosor, conforme previsto por Daniel?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Daniel 4:32-33"
+    },
+    {
+        "explicacao":  "Incapazes de achar falhas morais em Daniel, seus rivais manipularam o rei Dário para instituir uma lei religiosa que sabiam que Daniel desobedeceria por sua devoção.",
+        "alternativas":  [
+                             "Eles o acusaram de desviar fundos do tesouro",
+                             "Criaram um decreto proibindo petições a qualquer deus ou homem exceto ao rei por 30 dias",
+                             "Descobriram que ele espionava para a Pérsia",
+                             "Acusaram-no de quebrar os ídolos reais"
+                         ],
+        "id":  1731,
+        "pergunta":  "Por que os sátrapas e governadores da Babilônia conseguiram incriminar Daniel e jogá-lo na cova dos leões?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Daniel 6:7-9"
+    },
+    {
+        "explicacao":  "Durante uma festa pagã, Belsazar profanou os utensílios sagrados de Jerusalém, desencadeando a famosa mensagem misteriosa na parede (\u0027Mene, Mene, Tequel, Parsim\u0027).",
+        "alternativas":  [
+                             "Nabopolassar",
+                             "Belsazar",
+                             "Evil-Merodaque",
+                             "Nerolissar"
+                         ],
+        "id":  1732,
+        "pergunta":  "Qual monarca babilônico cometeu o sacrilégio de usar as taças de ouro consagradas do Templo de Deus em um banquete, presenciando a escrita sobrenatural na parede?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Daniel 5:1-3"
+    },
+    {
+        "explicacao":  "Daniel estrutura-se em narrativas históricas exemplares de integridade (caps. 1-6) seguidas por detalhadas visões apocalípticas mundiais (caps. 7-12).",
+        "alternativas":  [
+                             "Esdras",
+                             "Ester",
+                             "Ezequiel",
+                             "Daniel"
+                         ],
+        "id":  1733,
+        "pergunta":  "Qual livro veterotestamentário mescla crônicas biográficas de fidelidade em cortes pagãs em sua primeira metade com revelações de impérios futuros em sua metade final?",
+        "respostaCorretaIndice":  3,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Livro de Daniel"
+    },
+    {
+        "explicacao":  "A profecia das 70 semanas dada a Daniel pelo anjo Gabriel estabelece marcos cronológicos cruciais sobre a vinda do Messias e o destino de Jerusalém.",
+        "alternativas":  [
+                             "Ezequiel",
+                             "Isaías",
+                             "Daniel",
+                             "Zacarias"
+                         ],
+        "id":  1734,
+        "pergunta":  "Qual livro profético descreve a detalhada linha do tempo escatológica conhecida como as \u0027setenta semanas\u0027 decretadas sobre o povo santo?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Daniel 9:24"
+    },
+    {
+        "explicacao":  "Daniel revelou o sonho esquecido por Nabucodonosor, onde a estátua representava Babilônia, Medo-Pérsia, Grécia e Roma.",
+        "alternativas":  [
+                             "Ezequiel",
+                             "Isaías",
+                             "Daniel",
+                             "Habacuque"
+                         ],
+        "id":  1735,
+        "pergunta":  "Em qual documento profético está registrada a detalhada interpretação do sonho da estátua polimetálica que representava a sucessão de impérios mundiais?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Daniel 2"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Rio Tigre (ou Hidéquel)",
+        "alternativas":  [
+                             "Rio Tigre (ou Hidéquel)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1736,
+        "pergunta":  "À beira de qual rio ou canal o profeta Daniel recebeu a sua última grande visão apocalíptica registrada nos capítulos 10 a 12?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Daniel 10:4"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Ele foi assassinado e seu reino foi tomado pelos medos e persas",
+        "alternativas":  [
+                             "Ele foi assassinado e seu reino foi tomado pelos medos e persas",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1737,
+        "pergunta":  "O que aconteceu ao rei Belsazar na mesma noite em que a mão escreveu misteriosamente na parede do palácio?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Daniel 5:30-31"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Contou Deus o teu reino e o terminou; Pesado foste na balança e achado em falta; Dividido foi o teu reino e dado aos medos e persas",
+        "alternativas":  [
+                             "Contou Deus o teu reino e o terminou; Pesado foste na balança e achado em falta; Dividido foi o teu reino e dado aos medos e persas",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1738,
+        "pergunta":  "Qual foi o veredito ou interpretação exata dada por Daniel para as palavras MENE, MENE, TEQUEL, PARSIM?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Daniel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Daniel 5:25-28"
+    }
+]

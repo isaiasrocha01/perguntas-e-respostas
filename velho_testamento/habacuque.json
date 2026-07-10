@@ -1,0 +1,53 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Habacuque",
+        "alternativas":  [
+                             "Habacuque",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1763,
+        "pergunta":  "Qual livro profético termina com uma belíssima declaração de júbilo: \u0027Ainda que a figueira não floresça... todavia eu me alegrarei no Senhor\u0027?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Habacuque",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Habacuque 3:17-18"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Habacuque",
+        "alternativas":  [
+                             "Habacuque",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1764,
+        "pergunta":  "Em qual livro profético está escrita a frase citada pelo apóstolo Paulo no Novo Testamento: \u0027Mas o justo viverá pela sua fé\u0027?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Habacuque",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Habacuque 2:4"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Habacuque",
+        "alternativas":  [
+                             "Habacuque",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1765,
+        "pergunta":  "Qual livro dos profetas menores registra uma oração feita sob a forma de canto orquestrado (Sigionote)?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Habacuque",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Habacuque 3:1"
+    }
+]

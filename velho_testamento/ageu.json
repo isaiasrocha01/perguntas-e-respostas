@@ -1,0 +1,17 @@
+﻿{
+    "explicacao":  "O profeta Ageu confrontou diretamente a negligência espiritual e a prioridade egoísta dos repatriados na reconstrução da Casa de Deus.",
+    "alternativas":  [
+                         "Zacarias",
+                         "Malaquias",
+                         "Ageu",
+                         "Sofonias"
+                     ],
+    "id":  1766,
+    "pergunta":  "Quem foi o profeta contemporâneo de Neemias que repreendeu o povo por morar em casas luxuosas enquanto o Templo estava em ruínas?",
+    "respostaCorretaIndice":  2,
+    "testamento":  "Velho Testamento",
+    "livro":  "Ageu",
+    "nivel":  "Médio",
+    "categoria":  "Pessoas",
+    "referenciaBiblica":  "Ageu 1:4"
+}

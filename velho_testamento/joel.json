@@ -1,0 +1,53 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Uma praga/invasão de gafanhotos (quatro tipos/fases)",
+        "alternativas":  [
+                             "Uma praga/invasão de gafanhotos (quatro tipos/fases)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1742,
+        "pergunta":  "Que terrível praga o profeta Joel usou em seu livro como metáfora para descrever o avanço do \u0027Exército do Senhor\u0027 e a devastação de Judá?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Joel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Joel 1:4"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Joel",
+        "alternativas":  [
+                             "Joel",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1743,
+        "pergunta":  "Qual livro profético traz a promessa de que Deus derramaria o Seu Espírito sobre toda a carne, profecia esta citada pelo apóstolo Pedro no dia de Pentecostes?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Joel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Joel 2:28 / Atos 2:17"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Joel",
+        "alternativas":  [
+                             "Joel",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1744,
+        "pergunta":  "Em qual livro profético Deus promete restaurar os anos que foram consumidos pelo gafanhotos cortador, migrador, devorador e destruidor?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Joel",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Joel 2:25"
+    }
+]

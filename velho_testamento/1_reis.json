@@ -1,0 +1,393 @@
+﻿[
+    {
+        "explicacao":  "Salomão herdou o trono de Davi, pediu sabedoria a Deus e foi o responsável por erguer o magnífico Templo.",
+        "alternativas":  [
+                             "Salomão",
+                             "Davi",
+                             "Ezequias",
+                             "Josias"
+                         ],
+        "id":  1636,
+        "pergunta":  "Quem foi o rei conhecido por sua extrema sabedoria e por construir o Templo de Jerusalém?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "1 Reis 3:12 / 1 Reis 6"
+    },
+    {
+        "explicacao":  "Elias se escondeu junto ao ribeiro de Querite; os corvos lhe traziam pão e carne, e ele bebia do ribeiro.",
+        "alternativas":  [
+                             "Ribeiro de Querite",
+                             "Rio Jordão",
+                             "Ribeiro de Cedrom",
+                             "Rio Quishon"
+                         ],
+        "id":  1637,
+        "pergunta":  "Onde o ribeiro secou após o profeta Elias ser alimentado por corvos ali?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "1 Reis 17:3-5"
+    },
+    {
+        "explicacao":  "Elias convocou todo o Israel e os profetas de Baal para o grande confronto espiritual no topo do Monte Carmelo.",
+        "alternativas":  [
+                             "Monte Carmelo",
+                             "Monte Sinai",
+                             "Monte Hermom",
+                             "Monte Tabor"
+                         ],
+        "id":  1638,
+        "pergunta":  "Em que monte Elias desafiou os 450 profetas de Baal para provar quem era o Deus verdadeiro?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "1 Reis 18:19-20"
+    },
+    {
+        "explicacao":  "Então caiu fogo do Senhor, e consumiu o holocausto, e a lenha, e as pedras, e o pó, e ainda lambeu a água.",
+        "alternativas":  [
+                             "Caiu fogo do céu e consumiu o holocausto",
+                             "Abriu-se um abismo sob os profetas de Baal",
+                             "Começou a chover granizo de ouro",
+                             "O altar flutuou diante do povo"
+                         ],
+        "id":  1639,
+        "pergunta":  "Que milagre aconteceu quando Elias orou no Monte Carmelo diante do altar reconstruído?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "1 Reis 18:38"
+    },
+    {
+        "explicacao":  "O livro de 1 Reis cobre o auge de Salomão e a trágica divisão tribal após sua morte.",
+        "alternativas":  [
+                             "1 Reis",
+                             "2 Reis",
+                             "2 Crônicas",
+                             "Provérbios"
+                         ],
+        "id":  1640,
+        "pergunta":  "Qual livro narra a sabedoria de Salomão e a divisão de Israel em dois reinos (Norte e Sul)?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "1 Reis 3 e 12"
+    },
+    {
+        "explicacao":  "O capítulo 12 de 1 Reis relata a insensatez de Roboão que causou a cisão de Israel e Judá.",
+        "alternativas":  [
+                             "1 Reis",
+                             "1 Samuel",
+                             "Esdras",
+                             "Neemias"
+                         ],
+        "id":  1641,
+        "pergunta":  "Qual livro conta sobre a divisão do reino após a morte de Salomão?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "1 Reis 12"
+    },
+    {
+        "explicacao":  "Joabe seguiu a Davi por anos, mas por ter derramado sangue inocente em tempo de paz e apoiado Adonias, foi sentenciado à morte por Salomão.",
+        "alternativas":  [
+                             "Abner",
+                             "Amasa",
+                             "Joabe",
+                             "Benaia"
+                         ],
+        "id":  1642,
+        "pergunta":  "Qual general e chefe do exército de Davi esteve ao seu lado na maioria das guerras, mas acabou sendo executado no início do reino de Salomão?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "1 Reis 2:34"
+    },
+    {
+        "explicacao":  "Jezabel, filha do rei dos sidônios, introduziu formalmente o culto a Baal e Aserá no Reino do Norte e tentou exterminar os profetas de Deus.",
+        "alternativas":  [
+                             "Atalia",
+                             "Jezabel",
+                             "Vashti",
+                             "Ester"
+                         ],
+        "id":  1643,
+        "pergunta":  "Qual rainha estrangeira, idólatra e cruel casou-se com o rei Acabe e perseguiu os profetas do Senhor?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "1 Reis 16:31"
+    },
+    {
+        "explicacao":  "Fortalecido pelo alimento angelical, Elias caminhou quarenta dias até Horebe, o monte de Deus, abrigando-se em uma caverna local.",
+        "alternativas":  [
+                             "Monte Carmelo",
+                             "Monte Horebe",
+                             "Monte Hermom",
+                             "Monte Gerizim"
+                         ],
+        "id":  1644,
+        "pergunta":  "Para qual monte Elias fugiu para se esconder da ameaça de Jezabel e onde passou 40 dias em uma caverna?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "1 Reis 19:8-9"
+    },
+    {
+        "explicacao":  "Os servos de Salomão e as frotas de Hirão navegaram até Ofir e de lá trouxeram centenas de talentos de ouro de alta pureza.",
+        "alternativas":  [
+                             "Ofir",
+                             "Tarsis",
+                             "Sabá",
+                             "Egito"
+                         ],
+        "id":  1645,
+        "pergunta":  "De onde vinha o ouro finíssimo que Salomão importava por meio de frotas marítimas para decorar as obras reais?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "1 Reis 9:28"
+    },
+    {
+        "explicacao":  "Ao propor a divisão física da criança, Salomão apelou para o instinto materno real: a verdadeira mãe preferiu perder o filho a vê-lo morto.",
+        "alternativas":  [
+                             "Prender ambas até que confessassem",
+                             "Ordenar cortar o bebê vivo ao meio para dividir entre as duas",
+                             "Dar o bebê a uma terceira mulher",
+                             "Fazer um sorteio sagrado"
+                         ],
+        "id":  1646,
+        "pergunta":  "Que decisão drástica de Salomão desmascarou a mentira de uma das duas mães que disputavam um bebê?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "1 Reis 3:16-27"
+    },
+    {
+        "explicacao":  "Deus enviou um mensageiro celestial para alimentar o exausto profeta, cuja restauração física o permitiu caminhar 40 dias até o monte Horebe.",
+        "alternativas":  [
+                             "Foi arrebatado por um redemoinho",
+                             "Um anjo o tocou e forneceu pão assado e água",
+                             "Foi atacado por ursos",
+                             "Corvos trouxeram carne pela manhã"
+                         ],
+        "id":  1647,
+        "pergunta":  "O que aconteceu com o profeta Elias no deserto quando ele estava deprimido e desejando a morte debaixo de um zimbro?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "1 Reis 19:4-8"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Roboão",
+        "alternativas":  [
+                             "Roboão",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1648,
+        "pergunta":  "Qual filho de Salomão foi o responsável pela divisão do reino por se recusar a aliviar os impostos do povo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 12:13-14"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Jeroboão I",
+        "alternativas":  [
+                             "Jeroboão I",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1649,
+        "pergunta":  "Quem foi o primeiro rei do Reino do Norte (Israel) após a divisão das tribos, que construiu dois bezerros de ouro em Dã e Betel?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 12:28-29"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Zinri",
+        "alternativas":  [
+                             "Zinri",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1650,
+        "pergunta":  "Qual rei de Israel (Reino do Norte) governou por apenas sete dias antes de queimar o palácio sobre si mesmo ao ser sitiado?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 16:15-18"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Micaías, filho de Inlá",
+        "alternativas":  [
+                             "Micaías, filho de Inlá",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1651,
+        "pergunta":  "Qual era o nome do profeta que avisou o rei Acabe que ele morreria na batalha de Ramote-Gileade, contradizendo os 400 profetas falsos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 22:13-23"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Jezreel (a vinha era de Nabote)",
+        "alternativas":  [
+                             "Jezreel (a vinha era de Nabote)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1652,
+        "pergunta":  "Onde ficava a vinha que o rei Acabe cobiçou e que Jezabel armou uma cilada para matar o dono legítimo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 21:1"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Berseba (fronteira sul de Judá)",
+        "alternativas":  [
+                             "Berseba (fronteira sul de Judá)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1653,
+        "pergunta":  "Para qual fortaleza ou cidade do deserto o profeta Elias fugiu quando entrou em profunda depressão, andando um dia de jornada deserto adentro?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 19:3-4"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Ofir",
+        "alternativas":  [
+                             "Ofir",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1654,
+        "pergunta":  "De que local geográfico os mensageiros de Salomão traziam madeira de sândalo e pedras preciosas em grande quantidade?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 10:11"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Na planície do Jordão, entre Sucote e Zaretã",
+        "alternativas":  [
+                             "Na planície do Jordão, entre Sucote e Zaretã",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1655,
+        "pergunta":  "Onde ficavam as minas ou os \u0027montes de bronze\u0027 de onde o rei Salomão fundia os grandes utensílios de metal para o Templo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 7:46"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Egito",
+        "alternativas":  [
+                             "Egito",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1656,
+        "pergunta":  "Qual localidade servia como refúgio para o rei Edomita Hadade quando ele fugiu do massacre provocado por Joabe?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 11:17-18"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: A farinha da panela não se acabou e o azeite da botija não faltou até o dia em que o Senhor deu chuva sobre a terra",
+        "alternativas":  [
+                             "A farinha da panela não se acabou e o azeite da botija não faltou até o dia em que o Senhor deu chuva sobre a terra",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1657,
+        "pergunta":  "De que maneira milagrosa a vida da viúva de Sarepta mudou após ela alimentar o profeta Elias com o seu último punhado de farinha?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 17:14-16"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: O homem de Deus de Judá (Profeta sem nome citado no texto de Reis)",
+        "alternativas":  [
+                             "O homem de Deus de Judá (Profeta sem nome citado no texto de Reis)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1658,
+        "pergunta":  "Qual profeta foi ordenado por Deus a clamar contra o altar de Betel nos dias de Jeroboão I, tendo sua história de desobediência a um leão relatada em Reis?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "1 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "1 Reis 13"
+    }
+]

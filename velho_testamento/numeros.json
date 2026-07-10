@@ -1,0 +1,291 @@
+﻿[
+    {
+        "explicacao":  "Soprou um vento do Senhor que trouxe codornizes do mar e as espalhou pelo acampamento israelita.",
+        "alternativas":  [
+                             "Enviou um grande bando de codornizes",
+                             "Fez chover peixes no acampamento",
+                             "Multiplicou os rebanhos instantaneamente",
+                             "Transformou pedras em pão"
+                         ],
+        "id":  1552,
+        "pergunta":  "Como Deus supriu a falta de carne dos israelitas no deserto quando eles reclamaram do maná?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Números 11:31-32"
+    },
+    {
+        "explicacao":  "No dia seguinte, a vara de Arão, pela casa de Levi, floresceu, produziu gomos, brotou flores e deu amêndoas.",
+        "alternativas":  [
+                             "O cajado brotou, floresceu e produziu amêndoas",
+                             "O cajado se transformou em uma espada de ouro",
+                             "O cajado começou a jorrar água doce",
+                             "O cajado brilhou como o sol"
+                         ],
+        "id":  1553,
+        "pergunta":  "Que milagre aconteceu com o cajado de Arão para confirmar que sua liderança vinha de Deus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Números 17:8"
+    },
+    {
+        "explicacao":  "Moisés feriu a rocha duas vezes com a vara em Meribá e saiu muita água, mas sua desobediência custou a entrada em Canaã.",
+        "alternativas":  [
+                             "Meribá (ou Cades)",
+                             "Elim",
+                             "Refidim",
+                             "Mará"
+                         ],
+        "id":  1554,
+        "pergunta":  "Onde os israelitas murmuraram por falta de água e Moisés bateu na rocha em vez de falar com ela?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Números 20:1-13"
+    },
+    {
+        "explicacao":  "O livro ganhou o nome de \u0027Números\u0027 por causa da contagem minuciosa da população de Israel descrita nos capítulos 1 e 26.",
+        "alternativas":  [
+                             "Números",
+                             "Levítico",
+                             "Deuteronômio",
+                             "Crônicas"
+                         ],
+        "id":  1555,
+        "pergunta":  "Em qual livro da Bíblia encontramos os dois censos do povo de Israel no deserto?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Números 1 e 26"
+    },
+    {
+        "explicacao":  "Enquanto dez espias desanimaram o povo com relatos sobre gigantes, Josué e Calebe encorajaram Israel a confiar na promessa do Senhor.",
+        "alternativas":  [
+                             "Moisés e Arão",
+                             "Gideão e Baraque",
+                             "Josué e Calebe",
+                             "Esdras e Neemias"
+                         ],
+        "id":  1556,
+        "pergunta":  "Quem foram os dois únicos espias que deram um relatório positivo e confiaram em Deus para entrar em Canaã?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Números 14:6-9"
+    },
+    {
+        "explicacao":  "A nuvem guia se assentou no deserto após a partida de Israel dos arredores do monte sagrado, marcando sua longa peregrinação.",
+        "alternativas":  [
+                             "Deserto da Judeia",
+                             "Deserto do Sinai",
+                             "Deserto de Saara",
+                             "Deserto da Arábia"
+                         ],
+        "id":  1557,
+        "pergunta":  "Qual era o nome da península ou deserto principal por onde o povo de Israel peregrinou durante os 40 anos?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Números 10:12"
+    },
+    {
+        "explicacao":  "Cades-Barneia foi o local histórico de acampamento na fronteira sul de onde os espias partiram e onde a rebelião do povo custou 40 anos de atraso.",
+        "alternativas":  [
+                             "Cades-Barneia",
+                             "Gilgal",
+                             "Berseba",
+                             "Jericó"
+                         ],
+        "id":  1558,
+        "pergunta":  "De onde os israelitas enviaram os 12 espias para inspecionar a terra de Canaã?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Números 32:8"
+    },
+    {
+        "explicacao":  "Moisés, Arão e Eleazar subiram ao Monte Hor diante de toda a congregação, onde as vestes sacerdotais de Arão foram transferidas ao seu filho antes de sua morte.",
+        "alternativas":  [
+                             "Monte Nebo",
+                             "Monte Sinai",
+                             "Monte Hor",
+                             "Monte Carmelo"
+                         ],
+        "id":  1559,
+        "pergunta":  "Qual foi o monte onde o sumo sacerdote Arão morreu e foi sepultado?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Números 20:28"
+    },
+    {
+        "explicacao":  "Como sinal de julgamento divino à insubordinação, o solo cindiu-se sob as suas tendas, engolindo os rebeldes e todas as suas posses.",
+        "alternativas":  [
+                             "Foram consumidos por fogo do altar",
+                             "A terra se abriu debaixo deles e os engoliu vivos",
+                             "Ficaram instantaneamente leprosos",
+                             "Foram picados por serpentes"
+                         ],
+        "id":  1560,
+        "pergunta":  "O que aconteceu com os cabeças da rebelião Corá, Datã e Abirão quando se levantaram contra a autoridade de Moisés e Arão?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Números 16:31-33"
+    },
+    {
+        "explicacao":  "O Senhor abriu a boca da jumenta, que questionou Balaão por espancá-la após ela desviar do Anjo do Senhor que barrava a passagem.",
+        "alternativas":  [
+                             "Uma ovelha",
+                             "Uma jumenta",
+                             "Um camelo",
+                             "Uma pomba"
+                         ],
+        "id":  1561,
+        "pergunta":  "Que animal falou milagrosamente para repreender as intenções e cegueira espiritual do profeta Balaão no caminho?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Números 22:28"
+    },
+    {
+        "explicacao":  "Como resposta direta à rebeldia verbal da congregação contra Moisés e Deus, répteis venenosos atacaram o povo, resultando em muitas fatalidades.",
+        "alternativas":  [
+                             "Enviou serpentes abrasadoras (venenosas) no acampamento",
+                             "Abriu fendas de fogo no chão",
+                             "Enviou uma tempestade de areia",
+                             "Cortou o suprimento de água"
+                         ],
+        "id":  1562,
+        "pergunta":  "De que forma Deus castigou os israelitas por suas murmurações recorrentes contra o maná e a jornada após saírem do Monte Hor?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Números 21:6"
+    },
+    {
+        "explicacao":  "Por ordem de Deus, quem olhasse com fé para a réplica de bronze levantada no meio do arraial recebia a restauração da saúde.",
+        "alternativas":  [
+                             "Um altar de pedras brutas",
+                             "Uma serpente de bronze",
+                             "O cajado sacerdotal",
+                             "Um escudo de ouro"
+                         ],
+        "id":  1563,
+        "pergunta":  "O que Moisés teve que fabricar e erguer em uma haste para que os picados por cobras fossem curados?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Números 21:8-9"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Balaque",
+        "alternativas":  [
+                             "Balaque",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1564,
+        "pergunta":  "Qual era o nome do rei de Moabe que contratou o profeta Balaão para amaldiçoar Israel no deserto?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Números 22:4-6"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Ribeiro de Escol",
+        "alternativas":  [
+                             "Ribeiro de Escol",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1565,
+        "pergunta":  "De qual ribeiro os israelitas colheram um cacho de uvas tão grande que precisou ser carregado por dois homens numa vara?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Números 13:23"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Uma grande praga os feriu enquanto a carne ainda estava entre os seus dentes",
+        "alternativas":  [
+                             "Uma grande praga os feriu enquanto a carne ainda estava entre os seus dentes",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1566,
+        "pergunta":  "Qual foi a punição de Deus para os israelitas que reclamaram do caminho no deserto e exigiram carne, gerando a sepultura dos cobiçosos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Números 11:33-34 (Quibrote-Hataavá)"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Porque não santificaram a Deus diante do povo e Moisés feriu a rocha duas vezes com o cajado em vez de falar a ela",
+        "alternativas":  [
+                             "Porque não santificaram a Deus diante do povo e Moisés feriu a rocha duas vezes com o cajado em vez de falar a ela",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1567,
+        "pergunta":  "Por qual motivo específico Deus proibiu Moisés e Arão de entrarem na Terra Prometida após o incidente em Cades?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Números 20:11-12"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Misturavam as cinzas com água corrente para fazer a \u0027água de purificação\u0027 contra a impureza de tocar em cadáveres",
+        "alternativas":  [
+                             "Misturavam as cinzas com água corrente para fazer a \u0027água de purificação\u0027 contra a impureza de tocar em cadáveres",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1568,
+        "pergunta":  "O que os sacerdotes levitas faziam com as cinzas da Novilha Ruiva conforme as leis de purificação?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Números",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Números 19"
+    }
+]

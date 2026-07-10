@@ -1,0 +1,87 @@
+﻿[
+    {
+        "explicacao":  "Levítico serve como um manual para os sacerdotes levitas sobre santidade, cultos e sacrifícios.",
+        "alternativas":  [
+                             "Levítico",
+                             "Deuteronômio",
+                             "Crônicas",
+                             "Êxodo"
+                         ],
+        "id":  1547,
+        "pergunta":  "Qual livro do Velho Testamento é inteiramente dedicado a leis, rituais sacerdotais e sacrifícios?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Levítico",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Levítico 1:1"
+    },
+    {
+        "explicacao":  "O estatuto jurídico determinava que o blasfemo fosse levado para fora do arraial e executado por lapidação pública para expurgar o mal.",
+        "alternativas":  [
+                             "Banimento perpétuo do acampamento",
+                             "Morte por apedrejamento (lapidação)",
+                             "Confisco total dos bens e escravidão",
+                             "Pagamento de trinta siclos de prata"
+                         ],
+        "id":  1548,
+        "pergunta":  "Qual era a punição máxima prevista na Lei mosaica para indivíduos que proferissem blasfêmias contra o Nome do Senhor?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Levítico",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Levítico 24:14-16"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Holocausto",
+        "alternativas":  [
+                             "Holocausto",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1549,
+        "pergunta":  "Qual sacrifício levítico exigia que o ofertante colocasse a mão sobre a cabeça de um animal, e que este fosse inteiramente queimado no altar (sem sobrar carne)?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Levítico",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Levítico 1"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Foram consumidos por fogo que saiu de diante do Senhor por oferecerem fogo estranho",
+        "alternativas":  [
+                             "Foram consumidos por fogo que saiu de diante do Senhor por oferecerem fogo estranho",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1550,
+        "pergunta":  "O que aconteceu com os filhos de Arão, Nadabe e Abiú, logo no início do ministério do Tabernáculo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Levítico",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Levítico 10:1-2"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: O sumo sacerdote confessava os pecados de Israel sobre a cabeça do bode e este era enviado vivo ao deserto para levar as iniquidades",
+        "alternativas":  [
+                             "O sumo sacerdote confessava os pecados de Israel sobre a cabeça do bode e este era enviado vivo ao deserto para levar as iniquidades",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1551,
+        "pergunta":  "Qual era o procedimento exato no Dia da Expiação (Yom Kippur) com o chamado \u0027bode emissário\u0027 (Azazel)?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Levítico",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Levítico 16:21-22"
+    }
+]

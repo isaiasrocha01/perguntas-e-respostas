@@ -1,0 +1,87 @@
+﻿[
+    {
+        "explicacao":  "Deus ordenou: \u0027Levanta-te, vai à grande cidade de Nínive, e clama contra ela, porque a sua malícia subiu até à minha presença\u0027.",
+        "alternativas":  [
+                             "Nínive",
+                             "Társis",
+                             "Babilônia",
+                             "Samaria"
+                         ],
+        "id":  1754,
+        "pergunta":  "Para qual grande cidade ímpia Deus ordenou que Jonas fosse pregar o arrependimento?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jonas",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Jonas 1:2"
+    },
+    {
+        "explicacao":  "Jonas se levantou para fugir da presença do Senhor para Társis; desceu a Jope e achou um navio.",
+        "alternativas":  [
+                             "Társis",
+                             "Nínive",
+                             "Jope",
+                             "Jerusalém"
+                         ],
+        "id":  1755,
+        "pergunta":  "Para qual cidade o profeta Jonas tentou fugir para não pregar a mensagem de Deus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jonas",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Jonas 1:3"
+    },
+    {
+        "explicacao":  "E levantaram a Jonas, e o lançaram ao mar, e cessou o mar da sua fúria.",
+        "alternativas":  [
+                             "O mar se aquietou da sua fúria",
+                             "O mar se transformou em sangue",
+                             "O mar congelou ao redor do barco",
+                             "Criou-se uma imensa tromba d\u0027água"
+                         ],
+        "id":  1756,
+        "pergunta":  "O que aconteceu com o mar quando os marinheiros jogaram Jonas para fora do navio?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jonas",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Jonas 1:15"
+    },
+    {
+        "explicacao":  "Preparou o Senhor um grande peixe, para que tragasse a Jonas; e esteve Jonas três dias e três noites nas entranhas do peixe.",
+        "alternativas":  [
+                             "Jonas",
+                             "Moisés",
+                             "Noé",
+                             "Elias"
+                         ],
+        "id":  1757,
+        "pergunta":  "Quem passou três dias e três noites na barriga de um grande peixe?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jonas",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Jonas 1:17"
+    },
+    {
+        "explicacao":  "Deus fez brotar uma planta para fazer sombra sobre o irado profeta e, no dia seguinte, enviou um verme para destruí-la, confrontando Jonas sobre o valor das vidas.",
+        "alternativas":  [
+                             "Um vento oriental sufocante",
+                             "Uma planta (rícino/aboboreira) que cresceu rápido e depois secou",
+                             "Um grande enxame de gafanhotos",
+                             "Uma fonte que jorrou no deserto"
+                         ],
+        "id":  1758,
+        "pergunta":  "Que elemento natural Deus usou para ilustrar uma lição de compaixão e soberania a Jonas nos arredores de Nínive?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Jonas",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Jonas 4:6-7"
+    }
+]

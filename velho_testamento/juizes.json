@@ -1,0 +1,189 @@
+﻿[
+    {
+        "explicacao":  "Débora, uma profetisa, mulher de Lapidote, julgava a Israel naquele tempo de opressão.",
+        "alternativas":  [
+                             "Débora",
+                             "Rute",
+                             "Ester",
+                             "Noemi"
+                         ],
+        "id":  1586,
+        "pergunta":  "Qual profetisa e juíza liderou Israel junto com Baraque na batalha contra Sísera?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Juízes 4:4"
+    },
+    {
+        "explicacao":  "Sansão foi consagrado a Deus como nazireu desde o ventre materno, e nenhuma navalha deveria passar por sua cabeça.",
+        "alternativas":  [
+                             "Sansão",
+                             "Gideão",
+                             "Golias",
+                             "Saul"
+                         ],
+        "id":  1587,
+        "pergunta":  "Qual era o nome do homem mais forte da Bíblia, cuja força estava ligada ao seu voto nazireu (e cabelos)?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Juízes 13-16"
+    },
+    {
+        "explicacao":  "Dalila fez Sansão dormir nos seus joelhos, chamou um homem e mandou rapar as sete tranças da cabeça dele; e a sua força se retirou.",
+        "alternativas":  [
+                             "Teve seus cabelos cortados enquanto dormia",
+                             "Bebeu vinho envenenado",
+                             "Foi acorrentado com bronze sagrado",
+                             "Perdeu uma luta de braço com Dalila"
+                         ],
+        "id":  1588,
+        "pergunta":  "Como Sansão perdeu a sua força extraordinária?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Juízes 16:19"
+    },
+    {
+        "explicacao":  "Esta frase resume o período de declínio espiritual e anarquia civil retratado em Juízes.",
+        "alternativas":  [
+                             "Juízes",
+                             "Rute",
+                             "1 Samuel",
+                             "1 Reis"
+                         ],
+        "id":  1589,
+        "pergunta":  "Qual livro repete várias vezes a frase \u0027naquele tempo não havia rei em Israel; cada um fazia o que parecia reto aos seus olhos\u0027?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Juízes 21:25"
+    },
+    {
+        "explicacao":  "Deus reduziu o exército de Gideão para 300 homens para manifestar Seu poder de forma incontestável na derrota dos midianitas.",
+        "alternativas":  [
+                             "Sansão",
+                             "Gideão",
+                             "Jefté",
+                             "Otniel"
+                         ],
+        "id":  1590,
+        "pergunta":  "Qual juiz de Israel derrotou um exército gigante com apenas 300 homens usando trombetas e cântaros?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Juízes 7:7"
+    },
+    {
+        "explicacao":  "Buscando assegurar a vitória, Jefté prometeu oferecer em holocausto o que primeiro cruzasse suas portas, sendo surpreendido por sua única filha.",
+        "alternativas":  [
+                             "Jejuar por quarenta dias",
+                             "Sacrificar ao Senhor a primeira coisa que saísse da sua casa no seu retorno",
+                             "Destruir todos os ídolos de ouro",
+                             "Nunca cortar o cabelo"
+                         ],
+        "id":  1591,
+        "pergunta":  "Qual foi o voto trágico feito pelo juiz Jefté antes de ir para a batalha contra os amonitas?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Juízes 11:30-31"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Sangar",
+        "alternativas":  [
+                             "Sangar",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1592,
+        "pergunta":  "Qual juiz de Israel matou 600 filisteus usando apenas uma aguilhada de bois?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Juízes 3:31"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Jael",
+        "alternativas":  [
+                             "Jael",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1593,
+        "pergunta":  "Quem foi a mulher que matou o general cananeu Sísera, cravando uma estaca de tenda em sua têmpora enquanto ele dormia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Juízes 4:21"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: O timnita (homem de Timna)",
+        "alternativas":  [
+                             "O timnita (homem de Timna)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1594,
+        "pergunta":  "Qual era o nome do sogro de Sansão, cuja atitude de dar a esposa de Sansão a outro homem causou a queima das searas filisteias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Juízes 15:1-6"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Gaza",
+        "alternativas":  [
+                             "Gaza",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1595,
+        "pergunta":  "Em qual cidade filisteia Sansão carregou os portões da cidade nas costas até o topo de um monte perto de Hebrom?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Juízes 16:3"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Fenda da Rocha de Etã",
+        "alternativas":  [
+                             "Fenda da Rocha de Etã",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1596,
+        "pergunta":  "Onde ficava a rocha onde o juiz Sansão habitava após queimar as plantações dos filisteus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Juízes",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Juízes 15:8"
+    }
+]

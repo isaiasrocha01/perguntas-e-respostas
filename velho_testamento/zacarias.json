@@ -1,0 +1,53 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Zacarias",
+        "alternativas":  [
+                             "Zacarias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1767,
+        "pergunta":  "Qual profeta escreveu um livro contendo a famosa promessa messiânica: \u0027Eis que o teu Rei virá a ti, justo e Salvador, pobre, e montado sobre um jumento\u0027?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Zacarias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Zacarias 9:9"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Zacarias",
+        "alternativas":  [
+                             "Zacarias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1768,
+        "pergunta":  "Qual profeta teve uma visão de oito visões noturnas complexas, incluindo cavalos entre as murtas, quatro chifres e quatro ferreiros?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Zacarias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Zacarias 1"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Zacarias",
+        "alternativas":  [
+                             "Zacarias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1769,
+        "pergunta":  "Em qual livro profético encontramos a visão de um homem com uma corda de medir na mão para medir a largura e o comprimento de Jerusalém?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Zacarias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Zacarias 2:1-2"
+    }
+]

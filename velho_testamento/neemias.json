@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "Neemias era copeiro do rei Artaxerxes e obteve permissão para liderar a reconstrução das muralhas da cidade sagrada.",
+        "alternativas":  [
+                             "Neemias",
+                             "Esdras",
+                             "Ester",
+                             "Malaquias"
+                         ],
+        "id":  1696,
+        "pergunta":  "Qual livro relata a história do copeiro do rei que liderou a reconstrução dos muros destruídos de Jerusalém?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Neemias",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Neemias 1-2"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Joiada (um dos filhos de Joiada)",
+        "alternativas":  [
+                             "Joiada (um dos filhos de Joiada)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1697,
+        "pergunta":  "Quem foi o neto de Eliasibe, o sumo sacerdote, que Neemias expulsou de Jerusalém por ter se casado com a filha do horonita Sambalate?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Neemias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Neemias 13:28"
+    }
+]

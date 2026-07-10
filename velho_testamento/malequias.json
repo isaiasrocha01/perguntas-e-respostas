@@ -1,0 +1,70 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Malaquias",
+        "alternativas":  [
+                             "Malaquias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1770,
+        "pergunta":  "Em qual livro dos Profetas Menores encontramos a queixa de Deus de que o povo O estava roubando nos dízimos e nas ofertas alçadas?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Malaquias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Malaquias 3:8"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Malaquias",
+        "alternativas":  [
+                             "Malaquias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1771,
+        "pergunta":  "Qual livro profético é estruturado quase inteiramente como uma série de quatro disputas ou diálogos em formato de perguntas e respostas entre Deus e o povo/sacerdotes?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Malaquias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Livro de Malaquias"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Malaquias",
+        "alternativas":  [
+                             "Malaquias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1772,
+        "pergunta":  "Em qual livro profético há a imagem poética de Deus como um \u0027fogo de ourives\u0027 e como \u0027sabão de lavandeiros\u0027 purificando os filhos de Levi?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Malaquias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Malaquias 3:2-3"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Malaquias",
+        "alternativas":  [
+                             "Malaquias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1773,
+        "pergunta":  "Qual é o último livro do Velho Testamento na ordem da Bíblia Evangélica, cujo versículo final fala sobre a vinda do profeta Elias para converter o coração dos pais aos filhos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Malaquias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Malaquias 4:5-6"
+    }
+]

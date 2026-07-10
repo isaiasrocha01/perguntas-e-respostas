@@ -1,0 +1,53 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Oseias",
+        "alternativas":  [
+                             "Oseias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1739,
+        "pergunta":  "Qual profeta do Velho Testamento teve que se casar com uma prostituta chamada Gômer para ilustrar a infidelidade de Israel para com Deus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Oseias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Oseias 1:2-3"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Oseias",
+        "alternativas":  [
+                             "Oseias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1740,
+        "pergunta":  "Qual livro profético menor traz o forte veredito de Deus: \u0027O meu povo foi destruído, porque lhe faltou o conhecimento\u0027?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Oseias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Oseias 4:6"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Oseias",
+        "alternativas":  [
+                             "Oseias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1741,
+        "pergunta":  "Qual profeta menor usa o termo \u0027Efraim é um bolo que não foi virado\u0027 para ilustrar a mistura religiosa e inconsistência moral do povo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Oseias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Oseias 7:8"
+    }
+]

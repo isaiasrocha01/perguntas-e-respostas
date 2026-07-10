@@ -1,0 +1,53 @@
+﻿[
+    {
+        "explicacao":  "A obra inicia-se identificando explicitamente o rei Salomão, célebre por sua sabedoria outorgada por Deus, como o principal idealizador das máximas de conduta.",
+        "alternativas":  [
+                             "Rei Salomão",
+                             "Rei Davi",
+                             "Profeta Samuel",
+                             "Esdras"
+                         ],
+        "id":  1710,
+        "pergunta":  "Quem é tradicionalmente reconhecido como o principal autor e compilador da maioria dos aforismos do livro de Provérbios?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Provérbios",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Provérbios 1:1"
+    },
+    {
+        "explicacao":  "Esta tese fundamental da literatura de sabedoria aponta que o respeito reverente a Deus é a base indispensável para o discernimento moral legítimo.",
+        "alternativas":  [
+                             "Jó",
+                             "Cântico dos Cânticos",
+                             "Eclesiastes",
+                             "Provérbios"
+                         ],
+        "id":  1711,
+        "pergunta":  "Em qual famoso livro de conselhos práticos lemos a máxima: \u0027O temor do Senhor é o princípio da sabedoria\u0027?",
+        "respostaCorretaIndice":  3,
+        "testamento":  "Velho Testamento",
+        "livro":  "Provérbios",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Provérbios 1:7 / Salmo 111:10"
+    },
+    {
+        "explicacao":  "O capítulo final de Provérbios destaca o valor inestimável de uma mulher que teme ao Senhor e administra o seu lar com excelência.",
+        "alternativas":  [
+                             "Rute",
+                             "Provérbios",
+                             "Ester",
+                             "Cantares"
+                         ],
+        "id":  1712,
+        "pergunta":  "Qual livro se encerra de maneira célebre com um poema acróstico dedicado a enaltecer o caráter e a diligência da \u0027Mulher Virtuosa\u0027?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Provérbios",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Provérbios 31:10-31"
+    }
+]

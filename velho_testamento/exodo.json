@@ -1,0 +1,325 @@
+﻿[
+    {
+        "explicacao":  "Os egípcios puseram sobre os israelitas feitores de obras, para os afligirem com suas cargas.",
+        "alternativas":  [
+                             "Egito",
+                             "Babilônia",
+                             "Pérsia",
+                             "Assíria"
+                         ],
+        "id":  1528,
+        "pergunta":  "Em que país o povo de Israel foi escravizado por 400 anos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 1:11-14"
+    },
+    {
+        "explicacao":  "A filha de Faraó encontrou o cesto, compadeceu-se do menino e criou-o como seu filho, chamando-o Moisés.",
+        "alternativas":  [
+                             "Moisés",
+                             "Arão",
+                             "Josué",
+                             "Samuel"
+                         ],
+        "id":  1529,
+        "pergunta":  "Quem foi o bebê colocado em uma cesta no rio Nilo e depois adotado pela filha de Faraó?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Êxodo 2:3-10"
+    },
+    {
+        "explicacao":  "O Anjo do Senhor apareceu a Moisés numa chama de fogo no meio de uma sarça no monte Horebe.",
+        "alternativas":  [
+                             "Monte Horebe (ou Sinai)",
+                             "Monte Nebo",
+                             "Monte das Oliveiras",
+                             "Monte Ararate"
+                         ],
+        "id":  1530,
+        "pergunta":  "Onde Deus falou com Moisés pela primeira vez através de uma sarça que ardia mas não se consumia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 3:1-2"
+    },
+    {
+        "explicacao":  "Deus designou Arão, o levita, para falar ao povo por Moisés, pois ele tinha facilidade em falar.",
+        "alternativas":  [
+                             "Arão",
+                             "Josué",
+                             "Calebe",
+                             "Gérson"
+                         ],
+        "id":  1531,
+        "pergunta":  "Qual era o nome do irmão de Moisés que serviu como seu porta-voz diante de Faraó?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Êxodo 4:14"
+    },
+    {
+        "explicacao":  "Deus demonstrou Seu grande poder contra os deuses do Egito através de dez pragas severas.",
+        "alternativas":  [
+                             "10 pragas",
+                             "7 pragas",
+                             "3 pragas",
+                             "12 pragas"
+                         ],
+        "id":  1532,
+        "pergunta":  "Quantas pragas Deus enviou sobre o Egito para forçar Faraó a libertar o povo judeu?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Êxodo 7-12"
+    },
+    {
+        "explicacao":  "O sangue do cordeiro nos umbrais das portas serviu como sinal para o anjo da morte passar por cima daquela casa.",
+        "alternativas":  [
+                             "Passaram o sangue de um cordeiro nos batentes das portas",
+                             "Esconderam as crianças nos poços",
+                             "Fugiram antes do anoitecer",
+                             "Fizeram um jejum de 24 horas"
+                         ],
+        "id":  1533,
+        "pergunta":  "O que os israelitas fizeram para evitar que seus primogênitos fossem mortos pelo anjo da morte no Egito?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Êxodo 12:7"
+    },
+    {
+        "explicacao":  "À meia-noite o Senhor feriu todos os primogênitos na terra do Egito, desde o primogênito de Faraó até o do cativo.",
+        "alternativas":  [
+                             "A morte dos primogênitos",
+                             "A praga das trevas",
+                             "A praga dos gafanhotos",
+                             "A transformação da água em sangue"
+                         ],
+        "id":  1534,
+        "pergunta":  "Qual foi a última praga enviada ao Egito, que deu origem à celebração da Páscoa judaica?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Êxodo 12:29-30"
+    },
+    {
+        "explicacao":  "Moisés estendeu a mão sobre o mar, e o Senhor retirou o mar por um forte vento oriental e abriu as águas.",
+        "alternativas":  [
+                             "Mar Vermelho",
+                             "Mar Morto",
+                             "Mar da Galileia",
+                             "Mar Mediterrâneo"
+                         ],
+        "id":  1535,
+        "pergunta":  "Qual mar Deus abriu ao meio para que os israelitas fugissem do exército de Faraó?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 14:21"
+    },
+    {
+        "explicacao":  "O maná parecia uma semente de coentro branca e tinha um gosto de bolo de mel que caía do céu.",
+        "alternativas":  [
+                             "Maná",
+                             "Codornizes",
+                             "Pão ázimo",
+                             "Mel silvestre"
+                         ],
+        "id":  1536,
+        "pergunta":  "Que alimento milagroso caía do céu todas as manhãs para alimentar os israelitas no deserto?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Êxodo 16:14-15"
+    },
+    {
+        "explicacao":  "O Senhor desceu sobre o monte Sinai, no cume do monte, e chamou a Moisés.",
+        "alternativas":  [
+                             "Monte Sinai (ou Horebe)",
+                             "Monte Nebo",
+                             "Monte das Oliveiras",
+                             "Monte Gerizim"
+                         ],
+        "id":  1537,
+        "pergunta":  "Em qual monte Moisés recebeu as tábuas dos Dez Mandamentos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 19:20"
+    },
+    {
+        "explicacao":  "Deus mandou fazer um santuário portátil habitável (Tabernáculo) para que pudesse habitar no meio deles.",
+        "alternativas":  [
+                             "Tabernáculo",
+                             "Sinagoga",
+                             "Altar de pedra",
+                             "Santuário de Siló"
+                         ],
+        "id":  1538,
+        "pergunta":  "Qual local central de adoração móvel os israelitas usavam no deserto antes da construção do Templo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 25:8-9"
+    },
+    {
+        "explicacao":  "Arão recebeu o ouro do povo, fundiu-o e fez dele um bezerro de escultura, e eles disseram: \u0027Estes são teus deuses, ó Israel\u0027.",
+        "alternativas":  [
+                             "Um bezerro de ouro",
+                             "Uma torre de pedra",
+                             "Uma estátua de Baal",
+                             "Um altar de madeira"
+                         ],
+        "id":  1539,
+        "pergunta":  "O que o povo construiu e adorou na base do Monte Sinai enquanto Moisés demorava a descer com as leis?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Êxodo 32:4"
+    },
+    {
+        "explicacao":  "O nome \u0027Êxodo\u0027 significa literalmente \u0027saída\u0027 ou \u0027partida\u0027, focando na libertação do Egito.",
+        "alternativas":  [
+                             "Êxodo",
+                             "Gênesis",
+                             "Números",
+                             "Josué"
+                         ],
+        "id":  1540,
+        "pergunta":  "Qual livro da Bíblia conta a história da saída dos israelitas do Egito sob o comando de Moisés?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Êxodo 1:1"
+    },
+    {
+        "explicacao":  "Jetro (também chamado de Reuel) era o sacerdote de Midiã e acolheu Moisés quando este fugiu do Egito, tornando-se seu sogro.",
+        "alternativas":  [
+                             "Arão",
+                             "Jetro",
+                             "Balaão",
+                             "Labão"
+                         ],
+        "id":  1541,
+        "pergunta":  "Qual era o nome do sogro de Moisés, também conhecido como Reuel, que era sacerdote em Midiã?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Êxodo 3:1 / Êxodo 18:1"
+    },
+    {
+        "explicacao":  "O povo chamou o lugar de \u0027Mara\u0027 devido à amargura de suas águas, mas por intervenção divina mostrada a Moisés, o manancial tornou-se potável.",
+        "alternativas":  [
+                             "Elim",
+                             "Mara",
+                             "Refidim",
+                             "Sinai"
+                         ],
+        "id":  1542,
+        "pergunta":  "Onde ficavam os poços de águas amargas que Deus tornou doces após Moisés jogar um pedaço de madeira neles?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 15:23-25"
+    },
+    {
+        "explicacao":  "Após saírem das águas amargas de Mara, a congregação descansou em Elim, um local de provisão natural abundante.",
+        "alternativas":  [
+                             "Mara",
+                             "Elim",
+                             "Refidim",
+                             "Cades"
+                         ],
+        "id":  1543,
+        "pergunta":  "Qual foi o lugar de oásis no deserto onde os israelitas pararam e encontraram 12 fontes de água e 70 palmeiras?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Êxodo 15:27"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Joquebede",
+        "alternativas":  [
+                             "Joquebede",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1544,
+        "pergunta":  "Qual era o nome da mãe de Moisés, Arão e Miriã?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Êxodo 6:20 / Números 26:59"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Bezalel (tribo de Judá) e Aoliabe (tribo de Dã)",
+        "alternativas":  [
+                             "Bezalel (tribo de Judá) e Aoliabe (tribo de Dã)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1545,
+        "pergunta":  "Quem foram os dois artesãos principais cheios do Espírito de Deus escolhidos para desenhar e construir o Tabernáculo no deserto?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Êxodo 31:1-6"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Refidim",
+        "alternativas":  [
+                             "Refidim",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1546,
+        "pergunta":  "Onde Moisés ergueu um altar e chamou-o de \u0027O Senhor é minha Bandeira\u0027 (Jeová Nissi) após derrotar os amalequitas?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Êxodo",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Êxodo 17:8-15"
+    }
+]

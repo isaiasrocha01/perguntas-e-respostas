@@ -1,0 +1,70 @@
+﻿[
+    {
+        "explicacao":  "Rute disse as famosas palavras: \u0027Não me instes para que te abandone... o teu povo é o meu povo, o teu Deus é o meu Deus\u0027.",
+        "alternativas":  [
+                             "Rute",
+                             "Orfa",
+                             "Ester",
+                             "Vashti"
+                         ],
+        "id":  1597,
+        "pergunta":  "Quem foi a jovem moabita que escolheu não abandonar sua sogra Noemi?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Rute",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Rute 1:16"
+    },
+    {
+        "explicacao":  "Noemi voltou de Moabe com Rute, sua nora, e chegaram a Belém no princípio da colheita da cevada.",
+        "alternativas":  [
+                             "Belém de Judá",
+                             "Jerusalém",
+                             "Moabe",
+                             "Jericó"
+                         ],
+        "id":  1598,
+        "pergunta":  "Qual cidade foi a terra natal de Rute, para onde ela viajou com Noemi?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Rute",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Rute 1:22"
+    },
+    {
+        "explicacao":  "O livro mostra como a estrangeira Rute casou-se com Boaz e se tornou bisavó do rei Davi.",
+        "alternativas":  [
+                             "Rute",
+                             "Ester",
+                             "Cânticos",
+                             "Oséias"
+                         ],
+        "id":  1599,
+        "pergunta":  "Qual pequeno livro conta a história de amor e redenção de uma ancestral do rei Davi que era moabita?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Rute",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Rute 4:21-22"
+    },
+    {
+        "explicacao":  "Na organização canônica da Bíblia, Rute fica logo após Juízes, pois sua história se passa no mesmo período.",
+        "alternativas":  [
+                             "Juízes",
+                             "Josué",
+                             "1 Samuel",
+                             "Gênesis"
+                         ],
+        "id":  1600,
+        "pergunta":  "Que livro vem imediatamente antes do livro de Rute na Bíblia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Rute",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Ordem Canônica da Bíblia"
+    }
+]

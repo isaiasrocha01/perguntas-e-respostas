@@ -1,0 +1,257 @@
+﻿[
+    {
+        "explicacao":  "Após a morte de Moisés, Deus falou a Josué, filho de Num, comissionando-o para guiar o povo.",
+        "alternativas":  [
+                             "Josué",
+                             "Calebe",
+                             "Arão",
+                             "Gideão"
+                         ],
+        "id":  1571,
+        "pergunta":  "Quem sucedeu Moisés e liderou o povo de Israel na conquista da Terra Prometida?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Josué 1:1-2"
+    },
+    {
+        "explicacao":  "Assim que os pés dos sacerdotes que levavam a Arca tocaram as águas do Jordão, o rio parou de correr e o povo cruzou a seco.",
+        "alternativas":  [
+                             "Rio Jordão",
+                             "Rio Nilo",
+                             "Rio Eufrates",
+                             "Rio Tigre"
+                         ],
+        "id":  1572,
+        "pergunta":  "Qual rio os israelitas tiveram que atravessar a pé enxuto para entrar na Terra Prometida?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Josué 3:15-17"
+    },
+    {
+        "explicacao":  "Jericó estava totalmente fechada por medo dos israelitas, mas caiu pelo poder divino.",
+        "alternativas":  [
+                             "Jericó",
+                             "Ai",
+                             "Gibeão",
+                             "Hebrom"
+                         ],
+        "id":  1573,
+        "pergunta":  "Qual foi a primeira cidade fortificada que os israelitas conquistaram em Canaã, cujas muralhas caíram?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Josué 6:20"
+    },
+    {
+        "explicacao":  "Ouvindo o povo o som da trombeta, deu um grande grito, e a muralha caiu abaixo.",
+        "alternativas":  [
+                             "O povo deu um grande grito e as trombetas tocaram",
+                             "Houve um grande terremoto",
+                             "Arqueiros incendiaram as portas",
+                             "As muralhas foram derrubadas com arietes"
+                         ],
+        "id":  1574,
+        "pergunta":  "Como caíram as muralhas de Jericó após o exército de Israel marchar ao redor delas por sete dias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Josué 6:20"
+    },
+    {
+        "explicacao":  "O sol se deteve no meio do céu e não se apressou a pôr-se quase um dia inteiro, para que Israel vencesse a batalha.",
+        "alternativas":  [
+                             "Eles pararam (ficaram imóveis por quase um dia inteiro)",
+                             "Houve uma escuridão total instantânea",
+                             "Eles mudaram de cor ficando vermelhos",
+                             "Eles giraram no céu de forma acelerada"
+                         ],
+        "id":  1575,
+        "pergunta":  "O que aconteceu ao sol e à lua durante a batalha de Josué em Gibeão?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Josué 10:12-13"
+    },
+    {
+        "explicacao":  "O livro de Josué registra fielmente a entrada e a partilha das terras de Canaã entre as tribos de Israel.",
+        "alternativas":  [
+                             "Josué",
+                             "Juízes",
+                             "1 Samuel",
+                             "Deuteronômio"
+                         ],
+        "id":  1576,
+        "pergunta":  "Qual livro histórico narra a queda das muralhas de Jericó e a divisão da Terra Prometida?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Josué 1-24"
+    },
+    {
+        "explicacao":  "Raabe acolheu e escondeu os espias de Israel em sua casa e, por sua fé, obteve a promessa de preservação de sua casa na queda de Jericó.",
+        "alternativas":  [
+                             "Raabe",
+                             "Rute",
+                             "Débora",
+                             "Dina"
+                         ],
+        "id":  1577,
+        "pergunta":  "Quem foi a mulher que escondeu os espias israelitas em Jericó e foi salva com sua família?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Josué 2:1"
+    },
+    {
+        "explicacao":  "A congregação dos filhos de Israel reuniu-se em Siló para armar a tenda da congregação, tornando o lugar o centro espiritual da nação por séculos.",
+        "alternativas":  [
+                             "Hebrom",
+                             "Gilgal",
+                             "Siló",
+                             "Betel"
+                         ],
+        "id":  1578,
+        "pergunta":  "Onde ficavam o Tabernáculo e a Arca durante o tempo dos Juízes, antes de Jerusalém se tornar a capital?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Josué 18:1 / 1 Samuel 1:3"
+    },
+    {
+        "explicacao":  "Por causa da desobediência ao anátema, o Senhor retirou Seu apoio e as tropas de Israel foram inicialmente derrotadas e repelidas pelas forças da cidade de Ai.",
+        "alternativas":  [
+                             "Ai",
+                             "Gabaon",
+                             "Betel",
+                             "Hazor"
+                         ],
+        "id":  1579,
+        "pergunta":  "Qual cidade foi destruída pelo exército de Israel logo após a vitória em Jericó, devido ao pecado oculto de Acã?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Josué 7:2-5"
+    },
+    {
+        "explicacao":  "Na famosa batalha de oração, Josué ordenou que o sol se detivesse sobre Gibeão e a lua sobre o Vale de Ajalom para concluir a vitória.",
+        "alternativas":  [
+                             "Vale de Elá",
+                             "Vale de Ajalom",
+                             "Vale de Escol",
+                             "Vale de Cedrom"
+                         ],
+        "id":  1580,
+        "pergunta":  "Em qual vale o sol se deteve enquanto Josué e o povo pelejavam?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Josué 10:12"
+    },
+    {
+        "explicacao":  "Acã confessou ter cobiçado e enterrado sob sua tenda uma magnífica capa babilônica, além de porções substanciais de prata e ouro de Jericó.",
+        "alternativas":  [
+                             "Ele se recusou a marchar",
+                             "Ele adulterou com uma mulher cananeia",
+                             "Ele roubou e escondeu bens condenados (capa, prata e ouro)",
+                             "Ele ofereceu sacrifício profano"
+                         ],
+        "id":  1581,
+        "pergunta":  "Qual foi o erro de Acã em Jericó que violou o anátema e trouxe a derrota militar de Israel?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Josué 7:21"
+    },
+    {
+        "explicacao":  "Temendo o extermínio, os gibeonitas simularam uma longa viagem para parecerem estrangeiros distantes, e Israel assinou a aliança sem consultar o Senhor.",
+        "alternativas":  [
+                             "Subornaram os anciãos com ouro",
+                             "Apresentaram-se com roupas velhas e pães mofados fingindo vir de longe",
+                             "Enviaram um exército falso para cercar as tribos",
+                             "Ameaçaram aliar-se aos egípcios"
+                         ],
+        "id":  1582,
+        "pergunta":  "De que maneira astuta os habitantes de Gibeão enganaram Josué e as lideranças para garantir um tratado de paz?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Josué 9:3-6"
+    },
+    {
+        "explicacao":  "Seguindo o protocolo ritual prescrito por Deus de marchar em silêncio por sete dias, o clamor uníssono e o som das buzinas derribaram os muros milagrosamente.",
+        "alternativas":  [
+                             "Um terremoto inesperado",
+                             "O soar das trombetas e o grande brado do povo no sétimo dia",
+                             "O uso de aríetes pesados pelos israelitas",
+                             "O fogo provocado pelos espias"
+                         ],
+        "id":  1583,
+        "pergunta":  "O que causou o colapso físico imediato das fortificações intransponíveis de Jericó?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Josué 6:20"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Gilgal",
+        "alternativas":  [
+                             "Gilgal",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1584,
+        "pergunta":  "Onde os israelitas montaram seu primeiro acampamento permanente após cruzar o rio Jordão a pé enxuto, onde circuncidaram os homens e celebraram a Páscoa?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Josué 4:19 / Josué 5:10"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Hebrom (antiga Quiriate-Arba)",
+        "alternativas":  [
+                             "Hebrom (antiga Quiriate-Arba)",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1585,
+        "pergunta":  "Qual cidade foi dada ao fiel espia Calebe como herança por ordem de Moisés e Josué?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Josué",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Josué 14:13-14"
+    }
+]

@@ -1,0 +1,87 @@
+﻿[
+    {
+        "explicacao":  "A profecia é direcionada contra Edom, nação descendente de Esaú, irmão gêmeo de Jacó.",
+        "alternativas":  [
+                             "Moabe",
+                             "Edom",
+                             "Amom",
+                             "Filístia"
+                         ],
+        "id":  1749,
+        "pergunta":  "Sobre qual nação é a visão profética registrada no livro de Obadias?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Obadias",
+        "nivel":  "Fácil",
+        "categoria":  "História",
+        "referenciaBiblica":  "Obadias 1:1"
+    },
+    {
+        "explicacao":  "Os edomitas confiavam na segurança geográfica de suas habitações nas fendas das rochas, o que gerou um orgulho que os levou à soberba.",
+        "alternativas":  [
+                             "Idolatria",
+                             "Orgulho e soberba",
+                             "Avareza",
+                             "Inveja"
+                         ],
+        "id":  1750,
+        "pergunta":  "Qual pecado é apontado como a causa da confiança excessiva e da queda dos edomitas?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Obadias",
+        "nivel":  "Médio",
+        "categoria":  "Teologia",
+        "referenciaBiblica":  "Obadias 1:3"
+    },
+    {
+        "explicacao":  "Edom agiu com indiferença, recusou-se a ajudar Judá e juntou-se aos estrangeiros na invasão e divisão dos despojos.",
+        "alternativas":  [
+                             "Defendeu Jerusalém",
+                             "Permaneceu neutro",
+                             "Aliou-se aos invasores e participou do saque",
+                             "Enviou ajuda humanitária"
+                         ],
+        "id":  1751,
+        "pergunta":  "Como Edom se comportou quando os inimigos invadiram Jerusalém?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Obadias",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "Obadias 1:11"
+    },
+    {
+        "explicacao":  "O princípio da retribuição é claro: \u0027Como fizeste, assim se fará contigo; a tua maldade cairá sobre a tua cabeça\u0027.",
+        "alternativas":  [
+                             "Que seriam poupados pela misericórdia",
+                             "Que o mal praticado voltaria sobre eles",
+                             "Que o dia seria de paz para todos",
+                             "Que seriam levados para o cativeiro"
+                         ],
+        "id":  1752,
+        "pergunta":  "O que o profeta declara sobre o \u0027Dia do Senhor\u0027 para aqueles que agiram com maldade?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Obadias",
+        "nivel":  "Médio",
+        "categoria":  "Profecias",
+        "referenciaBiblica":  "Obadias 1:15"
+    },
+    {
+        "explicacao":  "O livro conclui com a esperança messiânica de que salvadores subirão ao monte Sião para julgar o monte de Esaú, e o Reino será do Senhor.",
+        "alternativas":  [
+                             "Com a destruição total de Sião",
+                             "Com o retorno ao exílio",
+                             "Com a promessa de que o Reino pertencerá ao Senhor",
+                             "Com a vitória de Esaú sobre Jacó"
+                         ],
+        "id":  1753,
+        "pergunta":  "Como o livro de Obadias termina em relação ao governo final?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Obadias",
+        "nivel":  "Difícil",
+        "categoria":  "Escatologia",
+        "referenciaBiblica":  "Obadias 1:21"
+    }
+]

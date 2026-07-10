@@ -1,0 +1,121 @@
+﻿[
+    {
+        "explicacao":  "Ester compareceu perante o rei sem ser chamada e denunciou o plano maligno de Hamã para destruir os judeus.",
+        "alternativas":  [
+                             "Ester",
+                             "Vashti",
+                             "Rute",
+                             "Atalia"
+                         ],
+        "id":  1698,
+        "pergunta":  "Quem foi a rainha judia que arriscou sua vida para salvar seu povo do extermínio na Pérsia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Ester 7"
+    },
+    {
+        "explicacao":  "Ainda que o nome de Deus não apareça textualmente, Sua mão invisível orquestra cada detalhe da salvação de Seu povo.",
+        "alternativas":  [
+                             "Ester",
+                             "Rute",
+                             "Eclesiastes",
+                             "Cânticos"
+                         ],
+        "id":  1699,
+        "pergunta":  "Qual é o único livro da Bíblia que não menciona explicitamente a palavra \u0027Deus\u0027, mas mostra claramente Sua providência?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Livro de Ester"
+    },
+    {
+        "explicacao":  "A festa de Purim foi instituída pela rainha Ester e por Mardoqueu para comemorar o dia em que a tristeza se converteu em alegria.",
+        "alternativas":  [
+                             "Ester",
+                             "Neemias",
+                             "Esdras",
+                             "Daniel"
+                         ],
+        "id":  1700,
+        "pergunta":  "Qual livro histórico termina mostrando o povo judeu celebrando a festa de Purim na Pérsia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Ester 9:26"
+    },
+    {
+        "explicacao":  "Cheio de arrogância por Mardoqueu recusar prostrar-se diante dele, Hamã arquitetou um decreto real para destruir toda a população judaica.",
+        "alternativas":  [
+                             "Hamã",
+                             "Artaxerxes",
+                             "Ciro",
+                             "Memucã"
+                         ],
+        "id":  1701,
+        "pergunta":  "Quem era o homem perverso que planejou o enforcamento de Mardoqueu e o extermínio de todos os judeus nos dias de Ester?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "Ester 3:5-6"
+    },
+    {
+        "explicacao":  "O palácio imperial e centro administrativo do rei Assuero localizava-se na cidadela fortificada de Susã.",
+        "alternativas":  [
+                             "Cidadela de Babilônia",
+                             "Cidadela de Persépolis",
+                             "Cidadela de Susã",
+                             "Cidadela de Ecbátana"
+                         ],
+        "id":  1702,
+        "pergunta":  "Qual era o nome da cidadela ou palácio na Pérsia onde se passa toda a história da rainha Ester e Mardoqueu?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Ester 1:2"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Hadassa",
+        "alternativas":  [
+                             "Hadassa",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1703,
+        "pergunta":  "Qual era o nome hebraico original da rainha Ester antes de ela adotar seu nome persa?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Ester 2:7"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Festa de Purim",
+        "alternativas":  [
+                             "Festa de Purim",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1704,
+        "pergunta":  "Qual festa judaica foi instituída nos dias de Ester para comemorar a virada de sorte dos judeus contra as sortes (pur) lançadas por Hamã?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ester",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Ester 9:26"
+    }
+]

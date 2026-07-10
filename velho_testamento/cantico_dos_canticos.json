@@ -1,0 +1,17 @@
+﻿{
+    "explicacao":  "Também conhecido como Cantares de Salomão, o livro exalta os sentimentos de afeto puro entre o noivo e a noiva, interpretado tradicionalmente como a relação de Deus e Seu povo.",
+    "alternativas":  [
+                         "Lamentações",
+                         "Cântico dos Cânticos",
+                         "Salmos",
+                         "Rute"
+                     ],
+    "id":  1715,
+    "pergunta":  "Qual livro poético da Bíblia celebra o amor romântico e conjugal por meio de diálogos líricos e alegóricos?",
+    "respostaCorretaIndice":  1,
+    "testamento":  "Velho Testamento",
+    "livro":  "Cântico dos Cânticos",
+    "nivel":  "Médio",
+    "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+    "referenciaBiblica":  "Cantares 1:1"
+}

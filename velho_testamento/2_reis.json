@@ -1,0 +1,444 @@
+﻿[
+    {
+        "explicacao":  "Indo eles andando e falando, eis que uma carruagem de fogo, com cavalos de fogo, os separou; e Elias subiu ao céu.",
+        "alternativas":  [
+                             "Elias",
+                             "Eliseu",
+                             "Isaías",
+                             "Jeremias"
+                         ],
+        "id":  1659,
+        "pergunta":  "Qual profeta foi levado ao céu em um redemoinho por uma carruagem de fogo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Reis 2:11"
+    },
+    {
+        "explicacao":  "Eliseu virou-se para trás e os amaldiçoou no nome do Senhor; então duas ursas saíram do bosque e despedaçaram quarenta e dois daqueles rapazes.",
+        "alternativas":  [
+                             "Duas ursas saíram do bosque e os despedaçaram",
+                             "Eles ficaram instantaneamente mudos",
+                             "A terra se abriu sob os seus pés",
+                             "Foram atingidos por raios"
+                         ],
+        "id":  1660,
+        "pergunta":  "O que aconteceu com os jovens que zombaram da careca do profeta Eliseu?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Reis 2:23-24"
+    },
+    {
+        "explicacao":  "O profeta Isaías clamou ao Senhor, que fez retroceder a sombra dez graus pelos degraus que já tinha declinado no relógio de Acaz.",
+        "alternativas":  [
+                             "A sombra retrocedeu dez graus (voltou atrás)",
+                             "A sombra desapareceu por completo",
+                             "A sombra avançou doze horas de uma vez",
+                             "A sombra começou a piscar"
+                         ],
+        "id":  1661,
+        "pergunta":  "Qual milagre aconteceu com a sombra no relógio de sol de Acaz como sinal para o rei Ezequias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Reis 20:11"
+    },
+    {
+        "explicacao":  "Nebuzaradã, capitão da guarda, levou cativo o resto do povo que ficara na cidade após a invasão babilônica.",
+        "alternativas":  [
+                             "Babilônia",
+                             "Egito",
+                             "Nínive",
+                             "Roma"
+                         ],
+        "id":  1662,
+        "pergunta":  "Para onde o povo do Reino de Judá foi levado cativo após a destruição de Jerusalém?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Reis 25:11"
+    },
+    {
+        "explicacao":  "O livro de 2 Reis dá continuidade à história dos reis e profetas, culminando nos exílios de Israel e Judá.",
+        "alternativas":  [
+                             "2 Reis",
+                             "1 Reis",
+                             "Isaías",
+                             "Jeremias"
+                         ],
+        "id":  1663,
+        "pergunta":  "Em qual livro encontramos o ministério do profeta Eliseu e a queda de Jerusalém pelos babilônios?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "2 Reis 2 e 25"
+    },
+    {
+        "explicacao":  "Deus ouviu a oração do rei Ezequias e acrescentou quinze anos à sua vida, curando-o de uma doença mortal.",
+        "alternativas":  [
+                             "2 Reis (também em Isaías)",
+                             "1 Reis",
+                             "1 Crônicas",
+                             "Salmos"
+                         ],
+        "id":  1664,
+        "pergunta":  "Em qual livro da Bíblia encontramos a história de um rei que viu sua vida ser estendida por mais 15 anos após orar chorando?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "2 Reis 20:5-6"
+    },
+    {
+        "explicacao":  "Seguindo estritamente as instruções do profeta Eliseu enviadas por um mensageiro, Naamã obedeceu e foi totalmente curado.",
+        "alternativas":  [
+                             "Ben-Hadade",
+                             "Hazael",
+                             "Naamã",
+                             "Rezine"
+                         ],
+        "id":  1665,
+        "pergunta":  "Quem foi o comandante do exército sírio que foi curado da lepra após mergulhar sete vezes no rio Jordão?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Reis 5:14"
+    },
+    {
+        "explicacao":  "O rei imperial Nabucodonosor II cercou Jerusalém, destruiu seus muros e o Templo, deportando a maior parte da população judaica.",
+        "alternativas":  [
+                             "Ciro",
+                             "Dário",
+                             "Nabucodonosor",
+                             "Belsazar"
+                         ],
+        "id":  1666,
+        "pergunta":  "Quem era o rei da Babilônia que destruiu Jerusalém e levou o povo judeu para o exílio?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Reis 25:1"
+    },
+    {
+        "explicacao":  "Geazi correu atrás de Naamã e mentiu para obter prata e vestes, recebendo como consequência o juízo de carregar a lepra que fora retirada de Naamã.",
+        "alternativas":  [
+                             "Geazi",
+                             "Baruque",
+                             "Eliezer",
+                             "Hazael"
+                         ],
+        "id":  1667,
+        "pergunta":  "Qual era o nome do servo do profeta Eliseu que ficou leproso por causa de sua ganância ao receber presentes de Naamã?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Reis 5:26-27"
+    },
+    {
+        "explicacao":  "No nono ano de Oséias, o rei da Assíria sitiou e tomou Samaria, pondo fim ao Reino do Norte e deportando seus habitantes.",
+        "alternativas":  [
+                             "Jerusalém",
+                             "Tirza",
+                             "Samaria",
+                             "Dan"
+                         ],
+        "id":  1668,
+        "pergunta":  "Qual era a capital do Reino do Norte (Israel) que foi sitiada e conquistada pela Assíria?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Reis 17:6"
+    },
+    {
+        "explicacao":  "Orientada a recolher vasos vazios com os vizinhos, a viúva viu o pouco azeite que tinha se multiplicar continuamente até preencher todos os recipientes.",
+        "alternativas":  [
+                             "Transformou pedras em moedas de ouro",
+                             "Multiplicou milagrosamente o azeite em vasilhas emprestadas",
+                             "Abriu um tesouro escondido na parede",
+                             "Fez chover trigo no quintal"
+                         ],
+        "id":  1669,
+        "pergunta":  "Que prodígio Eliseu realizou para livrar a viúva de um discípulo dos profetas da ameaça de escravidão de seus filhos por dívidas?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Reis 4:1-7"
+    },
+    {
+        "explicacao":  "Durante o corte de vigas de madeira no Jordão, a ferramenta emprestada de um dos jovens profetas desprendeu-se e afundou, sendo recuperada pelo milagre.",
+        "alternativas":  [
+                             "A ponta de uma lança",
+                             "O ferro de um machado",
+                             "Uma coroa real",
+                             "Uma chave do templo"
+                         ],
+        "id":  1670,
+        "pergunta":  "Qual objeto metálico flutuou nas águas após Eliseu lançar um pedaço de madeira no local exato da queda?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Reis 6:5-6"
+    },
+    {
+        "explicacao":  "Em resposta à oração de Ezequias e Isaías, o mensageiro divino desfez o cerco de Senaqueribe em uma única noite sem que uma flecha fosse disparada.",
+        "alternativas":  [
+                             "Uma inundação repentina do ribeiro de Cedrom",
+                             "O Anjo do Senhor passou à noite e matou o acampamento",
+                             "Uma terrível chuva de pedras granizo",
+                             "Uma revolta interna generalizada"
+                         ],
+        "id":  1671,
+        "pergunta":  "O que exterminou o exército assírio de 185 mil soldados que sitiava Jerusalém nos dias do rei Ezequias?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Reis 19:35"
+    },
+    {
+        "explicacao":  "O sumo sacerdote Hilquias localizou o Livro da Lei (Deuteronômio/Pentateuco) esquecido nos arquivos, o que provocou profundo impacto e reformas confessionais.",
+        "alternativas":  [
+                             "A vara de Arão que floresceu",
+                             "O Livro da Lei do Senhor",
+                             "A estátua perdida de ouro de Salomão",
+                             "A harpa original do rei Davi"
+                         ],
+        "id":  1672,
+        "pergunta":  "O que foi encontrado no Templo durante as reformas estruturais ordenadas pelo rei Josias?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Médio",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Reis 22:8"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Joás",
+        "alternativas":  [
+                             "Joás",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1673,
+        "pergunta":  "Quem foi o único descendente da linhagem real de Davi que escapou do massacre promovido pela terrível rainha Atalia, salvo por sua tia?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 11:1-3"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Senaqueribe",
+        "alternativas":  [
+                             "Senaqueribe",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1674,
+        "pergunta":  "Qual rei da Assíria invadiu Judá nos dias do rei Ezequias e enviou cartas insultando o Deus vivo?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 18:13 / 2 Reis 19:14"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Hilquias",
+        "alternativas":  [
+                             "Hilquias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1675,
+        "pergunta":  "Quem era o sumo sacerdote que encontrou o Livro da Lei no Templo durante o reinado de Josias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 22:8"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Zedequias",
+        "alternativas":  [
+                             "Zedequias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1676,
+        "pergunta":  "Quem foi o último rei de Judá antes do cativeiro total, cujos olhos foram vazados por Nabucodonosor após ver seus filhos serem executados?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 25:7"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Vale de Megido",
+        "alternativas":  [
+                             "Vale de Megido",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1677,
+        "pergunta":  "Em que localidade o rei Josias foi mortalmente ferido por arqueiros egípcios ao tentar interceptar o Faraó Neco II?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 23:29-30 / 2 Crônicas 35:22"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Laquis",
+        "alternativas":  [
+                             "Laquis",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1678,
+        "pergunta":  "Qual cidade de Judá foi sitiada e capturada por Senaqueribe logo antes de ele cercar Jerusalém, famosa por seus relevos arqueológicos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 18:14"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: 10 graus",
+        "alternativas":  [
+                             "10 graus",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1679,
+        "pergunta":  "Quantos degraus ou graus a sombra retrocedeu no relógio de sol de Acaz como sinal de cura para o rei Ezequias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 20:11"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: O casamento do rei Jeorão de Judá com Atalia, filha de Acabe e Jezabel",
+        "alternativas":  [
+                             "O casamento do rei Jeorão de Judá com Atalia, filha de Acabe e Jezabel",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1680,
+        "pergunta":  "Que aliança matrimonial forçada gerou a ira do profeta Elias e destruiu temporariamente o culto ao Senhor no Reino do Sul (Judá)?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 8:16-18"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Josias",
+        "alternativas":  [
+                             "Josias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1681,
+        "pergunta":  "Qual rei foi instalado no trono de Judá pelo povo com apenas 8 anos de idade e promoveu a maior quebra de altares idólatras da história do reino?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 22:1 / 2 Reis 23"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Duas mães fizeram um acordo para cozinhar e comer os próprios filhos",
+        "alternativas":  [
+                             "Duas mães fizeram um acordo para cozinhar e comer os próprios filhos",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1682,
+        "pergunta":  "Qual foi o terrível sinal ou pacto de fome extrema sofrido em Samaria durante o cerco de Ben-Hadade, rei da Síria?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 6:26-29"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Tomou a sua capa, dobrou-a e feriu as águas, que se dividiram para os dois lados",
+        "alternativas":  [
+                             "Tomou a sua capa, dobrou-a e feriu as águas, que se dividiram para os dois lados",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1683,
+        "pergunta":  "De que forma o profeta Elias dividiu as águas do rio Jordão logo antes de ser transladado ao céu?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 2:8"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Ele jogou um pedaço de madeira na água e fez o ferro flutuar",
+        "alternativas":  [
+                             "Ele jogou um pedaço de madeira na água e fez o ferro flutuar",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1684,
+        "pergunta":  "Qual foi o milagre financeiro que Eliseu operou quando o grupo de profetas estava construindo uma nova casa e um ferro de machado caiu no rio?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Reis",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "2 Reis 6:5-6"
+    }
+]

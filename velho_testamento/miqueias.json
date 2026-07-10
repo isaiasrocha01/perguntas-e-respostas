@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Miqueias",
+        "alternativas":  [
+                             "Miqueias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1759,
+        "pergunta":  "Qual profeta menor escreveu a menor profecia contra a cidade de Samaria e Jerusalém, e previu detalhadamente que o Messias nasceria em Belém Efrata?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Miqueias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Miqueias 5:2"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Miqueias",
+        "alternativas":  [
+                             "Miqueias",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1760,
+        "pergunta":  "Qual profeta menor profetizou durante os reinados de Uzias, Jotão, Acaz e Ezequias, e cujo livro começa denunciando o suborno dos juízes e governantes?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Miqueias",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Miqueias 1:1 / Miqueias 3:11"
+    }
+]

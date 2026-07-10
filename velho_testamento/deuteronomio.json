@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "Deuteronômio repete e recapitula as leis de Deus para a nova geração que entraria em Canaã.",
+        "alternativas":  [
+                             "Deuteronômio",
+                             "Levítico",
+                             "Josué",
+                             "Juízes"
+                         ],
+        "id":  1569,
+        "pergunta":  "Qual livro significa \u0027Segunda Lei\u0027 e traz os discursos de despedida de Moisés antes de morrer?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Deuteronômio",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Deuteronômio 1:1"
+    },
+    {
+        "explicacao":  "Moisés subiu das planícies de Moabe ao topo do Pisga, no Monte Nebo, onde contemplou Canaã antes de ser recolhido pelo Senhor.",
+        "alternativas":  [
+                             "Monte Sinai",
+                             "Monte Nebo",
+                             "Monte Horebe",
+                             "Monte Sião"
+                         ],
+        "id":  1570,
+        "pergunta":  "Em qual monte Moisés morreu após Deus lhe mostrar de longe a Terra Prometida?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Deuteronômio",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Deuteronômio 34:1"
+    }
+]

@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Nínive",
+        "alternativas":  [
+                             "Nínive",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1761,
+        "pergunta":  "Qual cidade foi a capital original do Império Assírio, contra a qual o profeta Naum escreveu toda a sua dura profecia de destruição?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Naum",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Naum 1:1 / Naum 3"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Naum",
+        "alternativas":  [
+                             "Naum",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1762,
+        "pergunta":  "Qual livro profético descreve detalhadamente a destruição catastrófica de Nínive com metáforas de poças de água e leões, funcionando como uma \u0027continuação\u0027 histórica de Jonas?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Naum",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Livro de Naum"
+    }
+]

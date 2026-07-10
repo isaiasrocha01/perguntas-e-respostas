@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "Ezequiel estava entre os exilados junto ao rio Quebar quando os céus se abriram e ele contemplou visões divinas extraordinárias.",
+        "alternativas":  [
+                             "Rio Eufrates",
+                             "Rio Quebar",
+                             "Rio Tigre",
+                             "Rio Jordão"
+                         ],
+        "id":  1722,
+        "pergunta":  "À beira de qual rio no exílio babilônico o profeta Ezequiel teve suas famosas visões da glória de Deus?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ezequiel",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "Ezequiel 1:1"
+    },
+    {
+        "explicacao":  "O livro de Ezequiel possui uma estrutura fortemente apocalíptica e simbólica, voltada para demonstrar a glória divina aos cativos de Tel-Abibe.",
+        "alternativas":  [
+                             "Daniel",
+                             "Zacarias",
+                             "Ezequiel",
+                             "Isaías"
+                         ],
+        "id":  1723,
+        "pergunta":  "Qual obra profética é marcada por visões teofânicas altamente simbólicas, tais como querubins associados a rodas cheias de olhos e um vale contendo ossos secos que ganham vida?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Ezequiel",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Livro de Ezequiel"
+    }
+]

@@ -1,0 +1,70 @@
+﻿[
+    {
+        "explicacao":  "Explicação baseada na resposta: Betel",
+        "alternativas":  [
+                             "Betel",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1745,
+        "pergunta":  "Qual foi a cidade onde o profeta Amós exercia o seu ministério quando foi confrontado pelo sacerdote idólatra Amazias?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Amós",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Amós 7:10-13"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Amós",
+        "alternativas":  [
+                             "Amós",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1746,
+        "pergunta":  "Qual profeta menor se autodenominava \u0027boieiro e cultivador de sicômoros\u0027, afirmando não ser profeta nem filho de profeta por profissão?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Amós",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Amós 7:14"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Amós",
+        "alternativas":  [
+                             "Amós",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1747,
+        "pergunta":  "Em qual livro profético está a visão de um prumo de pedreiro na mão do Senhor, medindo a inclinação moral de Israel?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Amós",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Amós 7:7-8"
+    },
+    {
+        "explicacao":  "Explicação baseada na resposta: Amós",
+        "alternativas":  [
+                             "Amós",
+                             "Opção B",
+                             "Opção C",
+                             "Opção D"
+                         ],
+        "id":  1748,
+        "pergunta":  "Que profeta menor escreveu sobre o julgamento das nações vizinhas (Damasco, Gaza, Tiro, Edom, Amom, Moabe) antes de focar seus duros sermões contra Israel?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Amós",
+        "nivel":  "Difícil",
+        "categoria":  "Difícil",
+        "referenciaBiblica":  "Amós 1 e 2"
+    }
+]

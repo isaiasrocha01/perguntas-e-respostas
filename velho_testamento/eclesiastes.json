@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "O autor de Eclesiastes utiliza a palavra hebraica \u0027Hevel\u0027 (vapor/vaidade) para enfatizar a natureza efêmera e ilusória das conquistas humanas debaixo do sol.",
+        "alternativas":  [
+                             "Cântico dos Cânticos",
+                             "Provérbios",
+                             "Jó",
+                             "Eclesiastes"
+                         ],
+        "id":  1713,
+        "pergunta":  "Qual livro sapiencial repete de forma cíclica o refrão existencial \u0027Vaidade de vaidades, tudo é vaidade\u0027?",
+        "respostaCorretaIndice":  3,
+        "testamento":  "Velho Testamento",
+        "livro":  "Eclesiastes",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Eclesiastes 1:2"
+    },
+    {
+        "explicacao":  "O autor medita sobre a providência e os ritmos estabelecidos por Deus na experiência humana, exortando à aceitação dos tempos da vida.",
+        "alternativas":  [
+                             "Salmos",
+                             "Jó",
+                             "Eclesiastes",
+                             "Provérbios"
+                         ],
+        "id":  1714,
+        "pergunta":  "Qual livro poético organiza suas reflexões em torno da premissa de que \u0027tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu\u0027?",
+        "respostaCorretaIndice":  2,
+        "testamento":  "Velho Testamento",
+        "livro":  "Eclesiastes",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Eclesiastes 3:1"
+    }
+]

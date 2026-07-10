@@ -1,0 +1,87 @@
+﻿[
+    {
+        "explicacao":  "Uzias se indignou com os sacerdotes; e a lepra lhe saiu na testa perante os sacerdotes na casa do Senhor.",
+        "alternativas":  [
+                             "Ficou imediatamente leproso na testa",
+                             "Caiu morto no altar",
+                             "Ficou completamente cego",
+                             "Suas mãos secaram na hora"
+                         ],
+        "id":  1689,
+        "pergunta":  "O que aconteceu com o rei Uzias quando ele tentou queimar incenso no templo, algo reservado apenas aos sacerdotes?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Crônicas",
+        "nivel":  "Fácil",
+        "categoria":  "Eventos",
+        "referenciaBiblica":  "2 Crônicas 26:19-20"
+    },
+    {
+        "explicacao":  "2 Crônicas narra a história dos reis de Judá, terminando com o famoso decreto persa de repatriação.",
+        "alternativas":  [
+                             "2 Crônicas",
+                             "1 Crônicas",
+                             "Esdras",
+                             "Daniel"
+                         ],
+        "id":  1690,
+        "pergunta":  "Qual livro relata o avivamento do rei Josias e termina com o decreto de Ciro permitindo o retorno do exílio?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Crônicas",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "2 Crônicas 34 e 36"
+    },
+    {
+        "explicacao":  "Manassés humilhou-se profundamente diante de Deus quando levado com ganchos para a Babilônia, e o Senhor ouviu sua súplica restaurando seu reino.",
+        "alternativas":  [
+                             "Acaz",
+                             "Manassés",
+                             "Jeoiaquim",
+                             "Zedequias"
+                         ],
+        "id":  1691,
+        "pergunta":  "Qual rei de Judá ficou conhecido como o pior e mais idólatra de todos, mas se arrependeu verdadeiramente enquanto estava cativo na Assíria?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Crônicas",
+        "nivel":  "Médio",
+        "categoria":  "Pessoas",
+        "referenciaBiblica":  "2 Crônicas 33:12-13"
+    },
+    {
+        "explicacao":  "Salomão começou a edificar a Casa do Senhor no Monte Moriá, na eira de Ornã (Araúna), o jebuseu, onde Deus havia aparecido a Davi.",
+        "alternativas":  [
+                             "Monte das Oliveiras",
+                             "Monte Moriá",
+                             "Monte Sinai",
+                             "Monte Nebo"
+                         ],
+        "id":  1692,
+        "pergunta":  "Onde Salomão construiu o Templo de Jerusalém, lugar que antes fora a eira adquirida de um jebuseu?",
+        "respostaCorretaIndice":  1,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Crônicas",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Crônicas 3:1"
+    },
+    {
+        "explicacao":  "Uzias saiu, guerreou contra os filisteus e quebrou os muros de cidades estratégicas como Gate, Jabné e Asdode.",
+        "alternativas":  [
+                             "Gate",
+                             "Gaza",
+                             "Ecrom",
+                             "Asdode"
+                         ],
+        "id":  1693,
+        "pergunta":  "Qual cidade fortificada caiu sob o comando do rei Uzias na sua bem-sucedida expansão militar contra os filisteus?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "2 Crônicas",
+        "nivel":  "Médio",
+        "categoria":  "Lugares",
+        "referenciaBiblica":  "2 Crônicas 26:6"
+    }
+]

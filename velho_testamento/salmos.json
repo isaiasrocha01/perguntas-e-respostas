@@ -1,0 +1,36 @@
+﻿[
+    {
+        "explicacao":  "O livro dos Salmos é composto por 150 poemas que serviam como o hinário de adoração do povo de Israel.",
+        "alternativas":  [
+                             "Salmos",
+                             "Provérbios",
+                             "Lamentações",
+                             "Cânticos"
+                         ],
+        "id":  1708,
+        "pergunta":  "Qual livro da Bíblia contém a maior coleção de cânticos, poemas e orações?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Salmos",
+        "nivel":  "Fácil",
+        "categoria":  "Livros (Foco: Pentateuco e Históricos)",
+        "referenciaBiblica":  "Livro de Salmos"
+    },
+    {
+        "explicacao":  "O livro dos Salmos abriga o Salmo 117 (com apenas dois versículos) e o Salmo 119 (com 176 versículos de exaltação à Palavra).",
+        "alternativas":  [
+                             "Salmos",
+                             "Provérbios",
+                             "Jó",
+                             "Gênesis"
+                         ],
+        "id":  1709,
+        "pergunta":  "Qual livro do Saltério possui em sua extensão literária tanto o menor capítulo individual da Bíblia quanto o maior de todos?",
+        "respostaCorretaIndice":  0,
+        "testamento":  "Velho Testamento",
+        "livro":  "Salmos",
+        "nivel":  "Médio",
+        "categoria":  "Livros (Foco: Poéticos e Profetas Maiores)",
+        "referenciaBiblica":  "Livro de Salmos"
+    }
+]
